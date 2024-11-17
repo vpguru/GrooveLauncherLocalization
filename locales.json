@@ -1,0 +1,142 @@
+{
+    "af": {
+        "name": "Afrikaans",
+        "nativeName": "Afrikaans"
+    },
+    "ar": {
+        "name": "Arabic",
+        "nativeName": "العربية"
+    },
+    "az": {
+        "name": "Azerbaijani",
+        "nativeName": "Azərbaycan dili"
+    },
+    "bg": {
+        "name": "Bulgarian",
+        "nativeName": "Български език"
+    },
+    "bs": {
+        "name": "Bosnian",
+        "nativeName": "Bosanski jezik"
+    },
+    "ca": {
+        "name": "Catalan",
+        "nativeName": "Català"
+    },
+    "cs": {
+        "name": "Czech",
+        "nativeName": "Čeština"
+    },
+    "da": {
+        "name": "Danish",
+        "nativeName": "Dansk"
+    },
+    "de": {
+        "name": "German",
+        "nativeName": "Deutsch"
+    },
+    "el": {
+        "name": "Greek",
+        "nativeName": "Ελληνικά"
+    },
+    "en-GB": {
+        "name": "English (UK)",
+        "nativeName": "English (UK)"
+    },
+    "en-US": {
+        "name": "English (US)",
+        "nativeName": "English (US)"
+    },
+    "fa": {
+        "name": "Persian",
+        "nativeName": "فارسی"
+    },
+    "fi": {
+        "name": "Finnish",
+        "nativeName": "Suomen kieli"
+    },
+    "fr": {
+        "name": "French",
+        "nativeName": "Français"
+    },
+    "he": {
+        "name": "Hebrew",
+        "nativeName": "עברית"
+    },
+    "hu": {
+        "name": "Hungarian",
+        "nativeName": "Magyar"
+    },
+    "hy-AM": {
+        "name": "Armenian",
+        "nativeName": "Հայերեն"
+    },
+    "it": {
+        "name": "Italian",
+        "nativeName": "Italiano"
+    },
+    "ja": {
+        "name": "Japanese",
+        "nativeName": "日本語"
+    },
+    "ko": {
+        "name": "Korean",
+        "nativeName": "한국어"
+    },
+    "nl": {
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+    },
+    "no": {
+        "name": "Norwegian",
+        "nativeName": "Norsk"
+    },
+    "pl": {
+        "name": "Polish",
+        "nativeName": "Polski"
+    },
+    "pt-BR": {
+        "name": "Portuguese (Brazil)",
+        "nativeName": "Português (Brasil)"
+    },
+    "pt-PT": {
+        "name": "Portuguese (Portugal)",
+        "nativeName": "Português (Portugal)"
+    },
+    "ro": {
+        "name": "Romanian",
+        "nativeName": "Română"
+    },
+    "ru": {
+        "name": "Russian",
+        "nativeName": "Русский"
+    },
+    "sr": {
+        "name": "Serbian",
+        "nativeName": "Српски језик"
+    },
+    "sv-SE": {
+        "name": "Swedish (Sweden)",
+        "nativeName": "Svenska"
+    },
+    "tr": {
+        "name": "Turkish",
+        "nativeName": "Türkçe"
+    },
+    "uk": {
+        "name": "Ukrainian",
+        "nativeName": "Українська"
+    },
+    "vi": {
+        "name": "Vietnamese",
+        "nativeName": "Tiếng Việt"
+    },
+    "zh-CN": {
+        "name": "Chinese (Simplified)",
+        "nativeName": "简体中文"
+    },
+    "zh-TW": {
+        "name": "Chinese (Traditional)",
+        "nativeName": "繁體中文"
+    }
+}

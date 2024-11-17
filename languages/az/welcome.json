@@ -1,0 +1,39 @@
+{
+    "common": {
+        "next": "növbəti",
+        "previous": "əvvəlki",
+        "pleaseWait": "Zəhmət olmasa gözləyin..."
+    },
+    "welcome": {
+        "install": "Xoş gəldiniz",
+        "update": "Yenidən xoş gəldiniz",
+        "appName": "Groove Launcher",
+        "setupIntro": "Gəlin təcrübənizi qısa addımlarla quraşdıraq.",
+        "warning": "Xəbərdarlıq: Bu, buraxılışdan əvvəl proqramdır və səhvlər ola bilər."
+    },
+    "wizard": {
+        "title": "Yeniləmə Sihirbazı",
+        "description": "Gəlin məlumatlarınızın təhlükəsiz şəkildə daşınmasını təmin edək! Davam etmək üçün \"növbəti\" düyməsini basın."
+    },
+    "access": {
+        "title": "Giriş Asanlığı",
+        "description": "Təcrübənizi fərdiləşdirməklə hər şeyin tam olaraq istədiyiniz kimi olduğundan əmin olun.",
+        "background": "Fondakı şəkil",
+        "scaling": "Miqyaslama"
+    },
+    "themes": {
+        "light": "Açıq",
+        "dark": "Tünd"
+    },
+    "colors": {
+        "title": "Rənginizi seçin",
+        "description": "Əhvalınıza uyğun bir rəng seçin."
+    },
+    "whatsnew": {
+        "title": "Nələr Yeni?"
+    },
+    "finish": {
+        "title": "Groove'a hazır olun",
+        "description": "Quraşdırmanız tamamlandı. Gəlin başlayaq!"
+    }
+}

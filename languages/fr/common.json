@@ -1,0 +1,54 @@
+{
+  "actions": {
+    "ok": "Ok",
+    "okay": "Okay",
+    "yes": "Oui",
+    "no": "Non",
+    "uninstall": "Désinstaller",
+    "cancel": "Annuler",
+    "apply": "Appliquer",
+    "try_again": "Réessayer",
+    "light": "Clair",
+    "dark": "Sombre",
+    "remove": "Supprimer",
+    "on": "On",
+    "off": "Off",
+    "locked": "Verrouillé",
+    "unlocked": "Déverrouillé"
+  },
+  "search": {
+    "title": "Rechercher",
+    "no_results": "Aucun résultat pour {{query}}",
+    "search_store": "Rechercher dans la boutique"
+  },
+  "errors": {
+    "webview_old": "WebView est trop vieux !",
+    "home_reset": "Votre écran d'accueil a été réinitialisé en raison d'une erreur fatale :( S'il vous plaît signalez ceci:",
+    "launch_timeout": "Le démarrage du système a pris trop de temps"
+  },
+  "app_menu": {
+    "pin_to_home": "Épingler à l'accueil",
+    "uninstall": "Désinstaller"
+  },
+  "alerts": {
+    "default": {
+      "title": "Alerte!",
+      "message": "Message"
+    },
+    "uninstall": {
+      "title": "Désinstaller cette application ?",
+      "message": "Cette application et toutes les informations qu'elle contient, seront supprimées de votre appareil."
+    }
+  },
+  "numbers": {
+    "percent": "{{value}}%",
+    "decimal": "{{whole}}.{{decimal}}",
+    "bytes": {
+      "b": "{{size}} B",
+      "kb": "{{size}} Ko",
+      "mb": "{{size}} Mo",
+      "gb": "{{size}} Go",
+      "tb": "{{size}} To"
+    }
+  }
+}

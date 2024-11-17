@@ -1,0 +1,39 @@
+{
+    "common": {
+        "next": "ileri",
+        "previous": "geri",
+        "pleaseWait": "Lütfen bekleyiniz..."
+    },
+    "welcome": {
+        "install": "Hoş geldiniz",
+        "update": "Tekrar hoş geldiniz",
+        "appName": "Groove Başlatıcısı",
+        "setupIntro": "Deneyiminizi hazırlamayı birkaç kısa adımda tamamlayalım.",
+        "warning": "Uyarı: Bu bir ön sürüm yazılımıdır ve hatalar içerebilir."
+    },
+    "wizard": {
+        "title": "Güncelleme Sihirbazı",
+        "description": "Verilerinizin güvenli bir şekilde taşınmasını sağlayalım! Devam etmek için ileri'ye tıklayın."
+    },
+    "access": {
+        "title": "Erişim Kolaylığı",
+        "description": "Deneyiminizi kişiselleştirerek her şeyin tam istediğiniz gibi olmasını sağlayın.",
+        "background": "Arka plan",
+        "scaling": "Ölçekleme"
+    },
+    "themes": {
+        "light": "Açık",
+        "dark": "Koyu"
+    },
+    "colors": {
+        "title": "Renginizi seçin",
+        "description": "Ruh halinize uygun bir renk seçin."
+    },
+    "whatsnew": {
+        "title": "Neler Yeni?"
+    },
+    "finish": {
+        "title": "Groove'a hazır olun",
+        "description": "Kurulumunuz tamamlandı. Haydi başlayalım!"
+    }
+}
