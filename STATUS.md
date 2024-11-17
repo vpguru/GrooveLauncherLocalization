@@ -1,3 +1,4 @@
+
 # Groove Launcher Localization Status 🌍
 
 Each language has two progress indicators:

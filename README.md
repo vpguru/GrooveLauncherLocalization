@@ -1,3 +1,4 @@
+
 # Groove Launcher Localization Database 🌍
 
 This is the official database containing all supported localizations for Groove Launcher.
