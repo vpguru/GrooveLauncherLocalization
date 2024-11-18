@@ -1,48 +1,48 @@
 {
   "actions": {
-    "ok": "Tamam",
-    "okay": "Tamam",
-    "yes": "Bəli",
-    "no": "Yox",
-    "uninstall": "Silin",
-    "cancel": "Ləğv et",
-    "apply": "Tətbiq et",
-    "try_again": "Yenidən cəhd edin",
-    "light": "Açıq",
-    "dark": "Tünd",
-    "remove": "Sil",
-    "on": "Aktiv",
-    "off": "Qeyri-aktiv",
-    "locked": "Kilidlənib",
-    "unlocked": "Kilidi açıldı"
+    "ok": "Ok",
+    "okay": "Okay",
+    "yes": "Yes",
+    "no": "No",
+    "uninstall": "Uninstall",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "try_again": "Try again",
+    "light": "Light",
+    "dark": "Dark",
+    "remove": "Remove",
+    "on": "On",
+    "off": "Off",
+    "locked": "Locked",
+    "unlocked": "Unlocked"
   },
   "search": {
-    "title": "Axtarış",
-    "no_results": "{{query}} üçün nəticə yoxdur",
-    "search_store": "Mağazada axtar"
+    "title": "Search",
+    "no_results": "No results for {{query}}",
+    "search_store": "search Store"
   },
   "errors": {
-    "webview_old": "WebView çox köhnədir!",
-    "home_reset": "Əsas ekranınız kritik xəta səbəbindən sıfırlandı :( Bu xətanı bildirin:",
-    "launch_timeout": "Sistemin yüklənməsi çox uzun çəkdi"
+    "webview_old": "WebView is too old!",
+    "home_reset": "Your home screen was reset because of a fatal error :( Please report this:",
+    "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "Əsas ekrana daxil et",
-    "uninstall": "Quraş-ı ləğv et"
+    "pin_to_home": "Pin to home",
+    "uninstall": "Uninstall"
   },
   "alerts": {
     "default": {
-      "title": "Xəbərdarlıq!",
-      "message": "Mesaj"
+      "title": "Alert!",
+      "message": "Message"
     },
     "uninstall": {
-      "title": "Bu proqramın quraşdırılmışı ləğv olunsun?",
-      "message": "Bu proqram, həmçinin onun ehtiva etdiyi istənilən məlumat cihazınızdan silinəcək."
+      "title": "Uninstall this app?",
+      "message": "This app, plus any information it contains, will be deleted from your device."
     }
   },
   "numbers": {
     "percent": "{{value}}%",
-    "decimal": "{{whole}},{{decimal}}",
+    "decimal": "{{whole}}.{{decimal}}",
     "bytes": {
       "b": "{{size}} B",
       "kb": "{{size}} KB",
