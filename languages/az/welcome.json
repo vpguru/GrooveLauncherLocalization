@@ -1,39 +1,39 @@
 {
     "common": {
-        "next": "növbəti",
-        "previous": "əvvəlki",
-        "pleaseWait": "Zəhmət olmasa gözləyin..."
+        "next": "next",
+        "previous": "previous",
+        "pleaseWait": "Please wait..."
     },
     "welcome": {
-        "install": "Xoş gəldiniz",
-        "update": "Yenidən xoş gəldiniz",
+        "install": "Welcome",
+        "update": "Welcome back",
         "appName": "Groove Launcher",
-        "setupIntro": "Gəlin təcrübənizi qısa addımlarla quraşdıraq.",
-        "warning": "Xəbərdarlıq: Bu, buraxılışdan əvvəl proqramdır və səhvlər ola bilər."
+        "setupIntro": "Let's setup your experience in a few short steps.",
+        "warning": "Warning: This is pre-release software and may contain bugs."
     },
     "wizard": {
-        "title": "Yeniləmə Sihirbazı",
-        "description": "Gəlin məlumatlarınızın təhlükəsiz şəkildə daşınmasını təmin edək! Davam etmək üçün \"növbəti\" düyməsini basın."
+        "title": "Update Wizard",
+        "description": "Let's ensure your data is moved across safely! Click next to continue."
     },
     "access": {
-        "title": "Giriş Asanlığı",
-        "description": "Təcrübənizi fərdiləşdirməklə hər şeyin tam olaraq istədiyiniz kimi olduğundan əmin olun.",
-        "background": "Fondakı şəkil",
-        "scaling": "Miqyaslama"
+        "title": "Ease of Access",
+        "description": "Customize your experience to ensure that everything feels just right.",
+        "background": "Background",
+        "scaling": "Scaling"
     },
     "themes": {
-        "light": "Açıq",
-        "dark": "Tünd"
+        "light": "Light",
+        "dark": "Dark"
     },
     "colors": {
-        "title": "Rənginizi seçin",
-        "description": "Əhvalınıza uyğun bir rəng seçin."
+        "title": "Choose your color",
+        "description": "Pick a color that matches your mood."
     },
     "whatsnew": {
-        "title": "Nələr Yeni?"
+        "title": "What's New?"
     },
     "finish": {
-        "title": "Groove'a hazır olun",
-        "description": "Quraşdırmanız tamamlandı. Gəlin başlayaq!"
+        "title": "Get ready to Groove",
+        "description": "Your setup is done. Time to dive in!"
     }
 }
