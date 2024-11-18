@@ -1,116 +1,116 @@
 {
-  "title": "Instellingen",
+  "title": "Settings",
   "tabs": {
-    "home": "Thuis",
-    "applications": "Applicaties"
+    "home": "Home",
+    "applications": "Applications"
   },
   "theme": {
-    "title": "Thuis+Thema",
-    "accent_color": "Accentkleur",
-    "background": "Achtergrond",
-    "home_background": "Achtergrond voor thuisscherm",
-    "choose_photo": "Foto kiezen",
-    "show_more_tiles": "Meer tegels weergeven",
-    "friendly_accent": "Pas de achtergrond en <span style='color: var(--accent-color)'>accentkleur</span> van uw apparaat aan op basis van hoe u zich vandaag, deze week of de hele maand voelt.",
-    "friendly_tiles": "U kunt de grootte van de tegels en het aantal tegels op uw thuisscherm wijzigen.",
+    "title": "Home+Theme",
+    "accent_color": "Accent color",
+    "background": "Background",
+    "home_background": "Home background",
+    "choose_photo": "Choose photo",
+    "show_more_tiles": "Show more Tiles",
+    "friendly_accent": "Change your device's background and <span style='color: var(--accent-color)'>accent color</span> to match your mood today, this week, or all month.",
+    "friendly_tiles": "You can change the size and number of tiles available on your home screen.",
     "themes": {
-      "light": "Wit",
-      "dark": "Zwart"
+      "light": "Light",
+      "dark": "Dark"
     }
   },
   "screen_rotation": {
-    "title": "Schermrotatie",
-    "auto_rotate": "Automatisch draaien",
-    "rotation_lock": "Draaivergrendeling",
-    "friendly_rotation_lock": "Wanneer Draaivergrendeling is ingeschakeld, blijft de huidige stand van uw scherm behouden wanneer u uw telefoon draait."
+    "title": "Screen Rotation",
+    "auto_rotate": "Auto-rotate",
+    "rotation_lock": "Rotation lock",
+    "friendly_rotation_lock": "When Rotation lock is on, your home will stay in the current orientation when you rotate your device."
   },
   "language": {
-    "title": "Taal"
+    "title": "Language"
   },
   "ease_of_access": {
-    "title": "Toegankelijkheid",
-    "description": "lettergrootte, hoog contrast en meer",
-    "reduce_motion": "Verminder beweging",
-    "scaling": "Schalen",
+    "title": "Ease of Access",
+    "description": "text size, high contrast, and more",
+    "reduce_motion": "Reduce motion",
+    "scaling": "Scaling",
     "font": {
-      "title": "Lettertype",
-      "choose": "Kies...",
-      "remove": "Verwijder Lettertype"
+      "title": "Font",
+      "choose": "Choose...",
+      "remove": "Remove Font"
     }
   },
   "advanced": {
-    "title": "Geavanceerd",
-    "description": "pakketbeheer en andere aanpassingen",
+    "title": "Advanced",
+    "description": "package manager and other tweaks",
     "debugging": {
-      "title": "Debuggen",
-      "dump_apps": "Dump Geïnstalleerde Apps JSON"
+      "title": "Debugging",
+      "dump_apps": "Dump Installed Apps JSON"
     },
     "package_manager": {
-      "title": "Pakketbeheer",
-      "title_experimental": "Pakketbeheer (EXPERIMENTEEL)",
-      "system": "Systeem",
+      "title": "Package manager",
+      "title_experimental": "Package manager (EXPERIMENTAL)",
+      "system": "System",
       "root": "Root",
       "shizuku": "Shizuku"
     }
   },
   "alerts": {
     "reset": {
-      "title": "Groove Launcher Resetten?",
-      "message": "Dit zet uw launcher terug naar fabrieksinstellingen. Alle aanpassingen raken verloren."
+      "title": "Reset Groove Launcher?",
+      "message": "This will reset your launcher to its default settings. All customizations will be lost."
     },
     "root": {
-      "title": "Root Toegang Vereist",
-      "message": "Root toegang is vereist om deze actie uit te voeren. Geef root access om door te gaan."
+      "title": "Root Access Required",
+      "message": "Root access is required to perform this action. Please grant root access to continue."
     },
     "shizuku": {
-      "title": "Shizuku Toestemming Vereist",
-      "message": "Shizuku toestemming is vereist om deze actie uit te voeren. Geef Shizuku toestemming om door te gaan."
+      "title": "Shizuku Permission Required",
+      "message": "Shizuku permission is required to perform this action. Please grant Shizuku permission to continue."
     },
     "update_available": {
-      "title": "Update Beschikbaar!",
-      "message": "Een nieuwe versie <strong>({{version}})</strong> is verkrijgbaar, formaat op {{size}}. Wil je het downloaden?",
-      "message2": "Een nieuwe versie <strong>({{version}})</strong> is verkrijgbaar. Wil je het downloaden?"
+      "title": "Update Available!",
+      "message": "A new version <strong>({{version}})</strong> is available, sized at {{size}}. Would you like to download it?",
+      "message2": "A new version <strong>({{version}})</strong> is available. Would you like to download it?"
     },
     "update_check_failed": {
-      "title": "Update Controle Mislukt!",
-      "message": "Kan momenteel geen updates vinden, probeer het later opnieuw."
+      "title": "Update Check Failed!",
+      "message": "Unable to check for app updates. Please try again later."
     },
     "up_to_date": {
-      "title": "Helemaal bij!",
-      "message": "Je hebt de grooviest versie van Groove Launcher."
+      "title": "Up to Date!",
+      "message": "You have the grooviest version of Groove Launcher."
     },
     "font_read_error": {
-      "title": "Niet ondersteund bestandsformaat",
-      "message": "Het font bestand is ongeldig. Zorg ervoor dat het een .tff bestand is en probeer het opnieuw te uploaden."
+      "title": "Unsupported file format",
+      "message": "The font file isn’t valid. Make sure it’s a .ttf file and try uploading again."
     },
     "font_load_error": {
-      "title": "Kan font niet laden",
-      "message": "We kunnen het lettertype bestand niet lezen. Alleen .ttf lettertype worden ondersteund. Probeer een ander bestand."
+      "title": "Can’t load font",
+      "message": "We couldn’t read the font file. Only .ttf fonts are supported. Please try a different file."
     },
     "copy_failed": {
-      "title": "Kopie Mislukt!",
-      "message": "Kan app lijst niet kopiëren. Probeer het opnieuw."
+      "title": "Copy Failed!",
+      "message": "Unable to copy apps list. Please try again."
     },
     "copy_success": {
-      "title": "Gekopieerd naar Klembord!",
-      "message": "Geïnstalleerde apps met succes naar JSON formaat gekopieerd."
+      "title": "Copied to Clipboard!",
+      "message": "Installed apps copied to JSON format successfully."
     }
   },
   "about": {
-    "title": "Over",
+    "title": "About",
     "description": "Groove Launcher",
-    "version": "Versie: {{version}}",
-    "webview_version": "WebView Versie: {{version}}",
-    "reset_launcher": "Reset launcher",
-    "check_updates": "Controleer updates"
+    "version": "Version: {{version}}",
+    "webview_version": "WebView Version: {{version}}",
+    "reset_launcher": "Reset Launcher",
+    "check_updates": "Check Updates"
   },
   "apps": {
-    "uninstall_app": "Verwijder App"
+    "uninstall_app": "Uninstall App"
   },
   "roles": {
     "team_groove": "Team Groove",
-    "developer": "Ontwikkelaar",
-    "icon_design": "Iconografie Ontwerp",
-    "logo_design": "Logo Ontwerp"
+    "developer": "Developer",
+    "icon_design": "Icon Design",
+    "logo_design": "Logo Design"
   }
 }
