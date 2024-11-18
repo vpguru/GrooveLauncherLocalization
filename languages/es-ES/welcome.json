@@ -1,39 +1,39 @@
 {
     "common": {
-        "next": "siguiente",
-        "previous": "anterior",
-        "pleaseWait": "Por favor espere..."
+        "next": "next",
+        "previous": "previous",
+        "pleaseWait": "Please wait..."
     },
     "welcome": {
-        "install": "Bienvenido",
-        "update": "Bienvenido de vuelta",
+        "install": "Welcome",
+        "update": "Welcome back",
         "appName": "Groove Launcher",
-        "setupIntro": "Configuremos tu experiencia en unos pasos.",
-        "warning": "Advertencia: Este es un software preliminar y puede contener bugs."
+        "setupIntro": "Let's setup your experience in a few short steps.",
+        "warning": "Warning: This is pre-release software and may contain bugs."
     },
     "wizard": {
-        "title": "Asistente de actualización",
-        "description": "Asegurémonos que tus datos sean movidos seguramente. Presiona siguiente para continuar."
+        "title": "Update Wizard",
+        "description": "Let's ensure your data is moved across safely! Click next to continue."
     },
     "access": {
-        "title": "Accesibilidad",
-        "description": "Personaliza tu experiencia para asegurarte que todo esté adecuado.",
-        "background": "Fondo",
-        "scaling": "Escalado"
+        "title": "Ease of Access",
+        "description": "Customize your experience to ensure that everything feels just right.",
+        "background": "Background",
+        "scaling": "Scaling"
     },
     "themes": {
-        "light": "Claro",
-        "dark": "Oscuro"
+        "light": "Light",
+        "dark": "Dark"
     },
     "colors": {
-        "title": "Elige tu color",
-        "description": "Elige un color que esté acorde a tu ánimo."
+        "title": "Choose your color",
+        "description": "Pick a color that matches your mood."
     },
     "whatsnew": {
-        "title": "¿Qué hay de nuevo?"
+        "title": "What's New?"
     },
     "finish": {
-        "title": "Prepárate para Groovear",
-        "description": "Tu configuración está lista. ¡Hora de la acción!"
+        "title": "Get ready to Groove",
+        "description": "Your setup is done. Time to dive in!"
     }
 }

@@ -1,43 +1,43 @@
 {
   "actions": {
     "ok": "Ok",
-    "okay": "Aceptar",
-    "yes": "Sí",
+    "okay": "Okay",
+    "yes": "Yes",
     "no": "No",
-    "uninstall": "Desinstalar",
-    "cancel": "Cancelar",
-    "apply": "Aplicar",
-    "try_again": "Probar de nuevo",
-    "light": "Claro",
-    "dark": "Oscuro",
-    "remove": "Remover",
-    "on": "Activado",
-    "off": "Desactivado",
-    "locked": "Bloqueado",
-    "unlocked": "Desbloqueado"
+    "uninstall": "Uninstall",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "try_again": "Try again",
+    "light": "Light",
+    "dark": "Dark",
+    "remove": "Remove",
+    "on": "On",
+    "off": "Off",
+    "locked": "Locked",
+    "unlocked": "Unlocked"
   },
   "search": {
-    "title": "Buscar",
-    "no_results": "No hay resultados para {{query}}",
-    "search_store": "buscar en la Tienda"
+    "title": "Search",
+    "no_results": "No results for {{query}}",
+    "search_store": "search Store"
   },
   "errors": {
-    "webview_old": "¡WebView es muy antiguo!",
-    "home_reset": "Tu pantalla principal fue restablecida debido a un error fatal :( Por favor, reporte esto:",
-    "launch_timeout": "El sistema tardó demasiado para iniciar"
+    "webview_old": "WebView is too old!",
+    "home_reset": "Your home screen was reset because of a fatal error :( Please report this:",
+    "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "Anclar a casa",
-    "uninstall": "Desinstalar"
+    "pin_to_home": "Pin to home",
+    "uninstall": "Uninstall"
   },
   "alerts": {
     "default": {
-      "title": "¡Alerta!",
-      "message": "Mensaje"
+      "title": "Alert!",
+      "message": "Message"
     },
     "uninstall": {
-      "title": "¿Desinstalar esta aplicación?",
-      "message": "Esta aplicación, más cualquier información que contenga, será eliminado de su dispositivo."
+      "title": "Uninstall this app?",
+      "message": "This app, plus any information it contains, will be deleted from your device."
     }
   },
   "numbers": {
