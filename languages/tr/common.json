@@ -1,48 +1,48 @@
 {
   "actions": {
-    "ok": "Tamam",
-    "okay": "Tamam",
-    "yes": "Evet",
-    "no": "Hayır",
-    "uninstall": "Kaldır",
-    "cancel": "İptal",
-    "apply": "Uygula",
-    "try_again": "Yeniden dene",
-    "light": "Açık",
-    "dark": "Koyu",
-    "remove": "Kaldır",
-    "on": "Açık",
-    "off": "Kapalı",
-    "locked": "Kilitli",
-    "unlocked": "Kilit kaldırıldı"
+    "ok": "Ok",
+    "okay": "Okay",
+    "yes": "Yes",
+    "no": "No",
+    "uninstall": "Uninstall",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "try_again": "Try again",
+    "light": "Light",
+    "dark": "Dark",
+    "remove": "Remove",
+    "on": "On",
+    "off": "Off",
+    "locked": "Locked",
+    "unlocked": "Unlocked"
   },
   "search": {
-    "title": "Ara",
-    "no_results": "{{query}} için herhangi bir sonuç yok",
-    "search_store": "Mağaza'da ara"
+    "title": "Search",
+    "no_results": "No results for {{query}}",
+    "search_store": "search Store"
   },
   "errors": {
-    "webview_old": "WebView sürümü çok eski!",
-    "home_reset": "Ana ekranınız, kritik bir hata nedeniyle sıfırlandı :( Lütfen bu hatayı bildirin:",
-    "launch_timeout": "Sistem yüklemesi çok uzun sürdü"
+    "webview_old": "WebView is too old!",
+    "home_reset": "Your home screen was reset because of a fatal error :( Please report this:",
+    "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "Ana ekrana sabitle",
-    "uninstall": "Kaldır"
+    "pin_to_home": "Pin to home",
+    "uninstall": "Uninstall"
   },
   "alerts": {
     "default": {
-      "title": "Uyarı!",
-      "message": "Mesaj"
+      "title": "Alert!",
+      "message": "Message"
     },
     "uninstall": {
-      "title": "Bu uygulama kaldırılsın mı?",
-      "message": "Bu uygulama, içerdiği bilgilerle birlikte cihazınızdan silinecek."
+      "title": "Uninstall this app?",
+      "message": "This app, plus any information it contains, will be deleted from your device."
     }
   },
   "numbers": {
-    "percent": "%{{value}}",
-    "decimal": "{{whole}},{{decimal}}",
+    "percent": "{{value}}%",
+    "decimal": "{{whole}}.{{decimal}}",
     "bytes": {
       "b": "{{size}} B",
       "kb": "{{size}} KB",

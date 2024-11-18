@@ -1,39 +1,39 @@
 {
     "common": {
-        "next": "volgende",
-        "previous": "vorige",
-        "pleaseWait": "Even wachten..."
+        "next": "next",
+        "previous": "previous",
+        "pleaseWait": "Please wait..."
     },
     "welcome": {
-        "install": "Welkom",
-        "update": "Welkom terug",
+        "install": "Welcome",
+        "update": "Welcome back",
         "appName": "Groove Launcher",
-        "setupIntro": "Laten we jouw ervaring in een paar stappen instellen.",
-        "warning": "Waarschuwing: Dit is pre-release software en kan bugs bevatten."
+        "setupIntro": "Let's setup your experience in a few short steps.",
+        "warning": "Warning: This is pre-release software and may contain bugs."
     },
     "wizard": {
-        "title": "Updatewizard",
-        "description": "Laten we ervoor zorgen dat uw gegevens veilig worden verplaatst! Klik op Volgende om door te gaan."
+        "title": "Update Wizard",
+        "description": "Let's ensure your data is moved across safely! Click next to continue."
     },
     "access": {
-        "title": "Toegankelijkheid",
-        "description": "Verander jouw ervaring om er zeker van te zijn dat alles juist voelt.",
-        "background": "Achtergrond",
-        "scaling": "Schalen"
+        "title": "Ease of Access",
+        "description": "Customize your experience to ensure that everything feels just right.",
+        "background": "Background",
+        "scaling": "Scaling"
     },
     "themes": {
-        "light": "Wit",
-        "dark": "Zwart"
+        "light": "Light",
+        "dark": "Dark"
     },
     "colors": {
-        "title": "Kies jouw kleur",
-        "description": "Kies een kleur dat bij jouw stemming past."
+        "title": "Choose your color",
+        "description": "Pick a color that matches your mood."
     },
     "whatsnew": {
-        "title": "Wat is nieuw?"
+        "title": "What's New?"
     },
     "finish": {
-        "title": "Wees gereed om te Grooven",
-        "description": "Je installatie is klaar. Tijd om in te duiken!"
+        "title": "Get ready to Groove",
+        "description": "Your setup is done. Time to dive in!"
     }
 }
