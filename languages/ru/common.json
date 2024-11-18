@@ -1,54 +1,54 @@
 {
   "actions": {
-    "ok": "Ок",
-    "okay": "Хорошо",
-    "yes": "Да",
-    "no": "Нет",
-    "uninstall": "Удалить",
-    "cancel": "Отмена",
-    "apply": "Применить",
-    "try_again": "Повторите попытку",
-    "light": "Светлый",
-    "dark": "Тёмный",
-    "remove": "Удалить",
-    "on": "Вкл",
-    "off": "Выкл",
-    "locked": "Заблокирован",
-    "unlocked": "Разблокирован"
+    "ok": "Ok",
+    "okay": "Okay",
+    "yes": "Yes",
+    "no": "No",
+    "uninstall": "Uninstall",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "try_again": "Try again",
+    "light": "Light",
+    "dark": "Dark",
+    "remove": "Remove",
+    "on": "On",
+    "off": "Off",
+    "locked": "Locked",
+    "unlocked": "Unlocked"
   },
   "search": {
-    "title": "Поиск",
-    "no_results": "Нет результатов: {{query}}",
-    "search_store": "поиск в Магазине"
+    "title": "Search",
+    "no_results": "No results for {{query}}",
+    "search_store": "search Store"
   },
   "errors": {
-    "webview_old": "WebView устарел!",
-    "home_reset": "Ваш рабочий стол был сброшен из-за фатальной ошибки :( Пожалуйста, сообщите об этом:",
-    "launch_timeout": "Запуск системы занял слишком много времени"
+    "webview_old": "WebView is too old!",
+    "home_reset": "Your home screen was reset because of a fatal error :( Please report this:",
+    "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "На рабочий стол",
-    "uninstall": "Удалить"
+    "pin_to_home": "Pin to home",
+    "uninstall": "Uninstall"
   },
   "alerts": {
     "default": {
-      "title": "Внимание!",
-      "message": "Сообщение"
+      "title": "Alert!",
+      "message": "Message"
     },
     "uninstall": {
-      "title": "Удалить приложение?",
-      "message": "Это приложение плюс любая информация, содержащаяся в нём, будет удалено с вашего устройства."
+      "title": "Uninstall this app?",
+      "message": "This app, plus any information it contains, will be deleted from your device."
     }
   },
   "numbers": {
     "percent": "{{value}}%",
-    "decimal": "{{whole}},{{decimal}}",
+    "decimal": "{{whole}}.{{decimal}}",
     "bytes": {
-      "b": "{{size}} Б",
-      "kb": "{{size}} КБ",
-      "mb": "{{size}} МБ",
-      "gb": "{{size}} ГБ",
-      "tb": "{{size}} ТБ"
+      "b": "{{size}} B",
+      "kb": "{{size}} KB",
+      "mb": "{{size}} MB",
+      "gb": "{{size}} GB",
+      "tb": "{{size}} TB"
     }
   }
 }
