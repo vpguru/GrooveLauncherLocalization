@@ -1,116 +1,116 @@
 {
-  "title": "Settings",
+  "title": "Setări",
   "tabs": {
-    "home": "Home",
-    "applications": "Applications"
+    "home": "Acasă",
+    "applications": "Aplicații"
   },
   "theme": {
-    "title": "Home+Theme",
-    "accent_color": "Accent color",
-    "background": "Background",
-    "home_background": "Home background",
-    "choose_photo": "Choose photo",
-    "show_more_tiles": "Show more Tiles",
-    "friendly_accent": "Change your device's background and <span style='color: var(--accent-color)'>accent color</span> to match your mood today, this week, or all month.",
-    "friendly_tiles": "You can change the size and number of tiles available on your home screen.",
+    "title": "Acasă+Temă",
+    "accent_color": "Culoare de evidențiere",
+    "background": "Fundal",
+    "home_background": "Fundal acasă",
+    "choose_photo": "Alegeți fotografia",
+    "show_more_tiles": "Afișați mai multe Dale",
+    "friendly_accent": "Modificați-vă fundalul dispozitivului și <span style='color: var(--accent-color)'>culoarea de evidențiere</span> pentru a fi în ton cu dispoziția de astăzi, de săptămâna aceasta sau pentru toată luna.",
+    "friendly_tiles": "Puteți schimba dimensiunea și numărul de dale disponibile în ecranul de acasă.",
     "themes": {
-      "light": "Light",
-      "dark": "Dark"
+      "light": "Deschis",
+      "dark": "Închis"
     }
   },
   "screen_rotation": {
-    "title": "Screen Rotation",
-    "auto_rotate": "Auto-rotate",
-    "rotation_lock": "Rotation lock",
-    "friendly_rotation_lock": "When Rotation lock is on, your home will stay in the current orientation when you rotate your device."
+    "title": "Rotire Ecran",
+    "auto_rotate": "Auto-rotire",
+    "rotation_lock": "Blocare rotație",
+    "friendly_rotation_lock": "Atunci când este activată funcția Blocare rotație, ecranul își va păstra orientarea curentă când vă rotiți dispozitivul."
   },
   "language": {
-    "title": "Language"
+    "title": "Limbă"
   },
   "ease_of_access": {
-    "title": "Ease of Access",
-    "description": "text size, high contrast, and more",
-    "reduce_motion": "Reduce motion",
-    "scaling": "Scaling",
+    "title": "Simplificare Acces",
+    "description": "dimensiuni text, contrast ridicat și altele",
+    "reduce_motion": "Reducere mișcare",
+    "scaling": "Scalare",
     "font": {
       "title": "Font",
-      "choose": "Choose...",
-      "remove": "Remove Font"
+      "choose": "Alegeți...",
+      "remove": "Eliminare Font"
     }
   },
   "advanced": {
-    "title": "Advanced",
-    "description": "package manager and other tweaks",
+    "title": "Avansat",
+    "description": "manager de pachete și alte modificări",
     "debugging": {
       "title": "Debugging",
-      "dump_apps": "Dump Installed Apps JSON"
+      "dump_apps": "Exportare JSON de Aplicații Instalate"
     },
     "package_manager": {
-      "title": "Package manager",
-      "title_experimental": "Package manager (EXPERIMENTAL)",
-      "system": "System",
+      "title": "Manager de pachete",
+      "title_experimental": "Manager de pachete (EXPERIMENTAL)",
+      "system": "Sistem",
       "root": "Root",
       "shizuku": "Shizuku"
     }
   },
   "alerts": {
     "reset": {
-      "title": "Reset Groove Launcher?",
-      "message": "This will reset your launcher to its default settings. All customizations will be lost."
+      "title": "Resetați Lansatorul Groove?",
+      "message": "Acțiunea dată va reseta lansatorul dvs. la setările sale implicite. Toate personalizările vor fi pierdute."
     },
     "root": {
-      "title": "Root Access Required",
-      "message": "Root access is required to perform this action. Please grant root access to continue."
+      "title": "Acces Root Obligatoriu",
+      "message": "Accesul root este necesar pentru a efectua această operație. Vă rugăm să acordați acces root pentru a continua."
     },
     "shizuku": {
-      "title": "Shizuku Permission Required",
-      "message": "Shizuku permission is required to perform this action. Please grant Shizuku permission to continue."
+      "title": "Permisiune Shizuku Obligatorie",
+      "message": "Permisiunea Shizuku este obligatorie pentru a efectua această operație. Vă rugăm să acordați permisiunea Shizuku pentru a continua."
     },
     "update_available": {
-      "title": "Update Available!",
-      "message": "A new version <strong>({{version}})</strong> is available, sized at {{size}}. Would you like to download it?",
-      "message2": "A new version <strong>({{version}})</strong> is available. Would you like to download it?"
+      "title": "Actualizare Disponibilă!",
+      "message": "O nouă versiune <strong>({{version}})</strong> este disponibilă, de mărimea {{size}}. Doriți să o descărcați?",
+      "message2": "O nouă versiune <strong>({{version}})</strong> este disponibilă. Doriți să o descărcați?"
     },
     "update_check_failed": {
-      "title": "Update Check Failed!",
-      "message": "Unable to check for app updates. Please try again later."
+      "title": "Verificare Actualizare A Eșuat!",
+      "message": "Nu este posibilă verificarea actualizărilor aplicației. Vă rugăm să încercați din nou mai târziu."
     },
     "up_to_date": {
-      "title": "Up to Date!",
-      "message": "You have the grooviest version of Groove Launcher."
+      "title": "La Zi!",
+      "message": "Aveți cea mai groove-zavă versiune a Lansatorului Groove."
     },
     "font_read_error": {
-      "title": "Unsupported file format",
-      "message": "The font file isn’t valid. Make sure it’s a .ttf file and try uploading again."
+      "title": "Format Fișier Neacceptat",
+      "message": "Fișierul de font nu este valid. Asigurați-vă că fișierul este de tip .ttf și încercați să îl încărcați din nou."
     },
     "font_load_error": {
-      "title": "Can’t load font",
-      "message": "We couldn’t read the font file. Only .ttf fonts are supported. Please try a different file."
+      "title": "Fontul nu poate fi încărcat",
+      "message": "Nu am putut citi fișierul de font. Se acceptă numai fonturi de tip .ttf. Vă rugăm să încercați un alt fișier."
     },
     "copy_failed": {
-      "title": "Copy Failed!",
-      "message": "Unable to copy apps list. Please try again."
+      "title": "Copiere Eșuată!",
+      "message": "Nu este posibilă copierea listei de aplicații. Vă rugăm să încercați din nou."
     },
     "copy_success": {
-      "title": "Copied to Clipboard!",
-      "message": "Installed apps copied to JSON format successfully."
+      "title": "Copiat în Clipboard!",
+      "message": "Aplicații instalate copiate cu succes în format JSON."
     }
   },
   "about": {
-    "title": "About",
-    "description": "Groove Launcher",
-    "version": "Version: {{version}}",
-    "webview_version": "WebView Version: {{version}}",
-    "reset_launcher": "Reset Launcher",
-    "check_updates": "Check Updates"
+    "title": "Despre",
+    "description": "Lansator Groove",
+    "version": "Versiune: {{version}}",
+    "webview_version": "Versiune WebView: {{version}}",
+    "reset_launcher": "Resetați Lansatorul",
+    "check_updates": "Verificare Actualizări"
   },
   "apps": {
-    "uninstall_app": "Uninstall App"
+    "uninstall_app": "Dezinstalați Aplicația"
   },
   "roles": {
-    "team_groove": "Team Groove",
-    "developer": "Developer",
-    "icon_design": "Icon Design",
-    "logo_design": "Logo Design"
+    "team_groove": "Echipa Groove",
+    "developer": "Dezvoltator",
+    "icon_design": "Design Pictograme",
+    "logo_design": "Design Logotipuri"
   }
 }

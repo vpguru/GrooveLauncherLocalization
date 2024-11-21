@@ -1,48 +1,48 @@
 {
   "actions": {
     "ok": "Ok",
-    "okay": "Okay",
-    "yes": "Yes",
-    "no": "No",
-    "uninstall": "Uninstall",
-    "cancel": "Cancel",
-    "apply": "Apply",
-    "try_again": "Try again",
-    "light": "Light",
-    "dark": "Dark",
-    "remove": "Remove",
-    "on": "On",
-    "off": "Off",
-    "locked": "Locked",
-    "unlocked": "Unlocked"
+    "okay": "Bine",
+    "yes": "Da",
+    "no": "Nu",
+    "uninstall": "Dezinstalați",
+    "cancel": "Anulare",
+    "apply": "Aplicare",
+    "try_again": "Încercați din nou",
+    "light": "Deschis",
+    "dark": "Închis",
+    "remove": "Ștergeți",
+    "on": "Activat",
+    "off": "Dezactivat",
+    "locked": "Blocat",
+    "unlocked": "Deblocat"
   },
   "search": {
-    "title": "Search",
-    "no_results": "No results for {{query}}",
-    "search_store": "search Store"
+    "title": "Căutare",
+    "no_results": "Niciun rezultat pentru {{query}}",
+    "search_store": "căutați în Magazin"
   },
   "errors": {
-    "webview_old": "WebView is too old!",
-    "home_reset": "Your home screen was reset because of a fatal error :( Please report this:",
-    "launch_timeout": "System took too long to launch"
+    "webview_old": "WebView este prea vechi!",
+    "home_reset": "Ecranul dvs. de acasă a fost resetat din cauza unei erori fatale :( Vă rugăm să o raportați:",
+    "launch_timeout": "Lansarea sistemului a durat prea mult timp"
   },
   "app_menu": {
-    "pin_to_home": "Pin to home",
-    "uninstall": "Uninstall"
+    "pin_to_home": "Fixați pe ecranul acasă",
+    "uninstall": "Dezinstalați"
   },
   "alerts": {
     "default": {
-      "title": "Alert!",
-      "message": "Message"
+      "title": "Atenție!",
+      "message": "Mesaj"
     },
     "uninstall": {
-      "title": "Uninstall this app?",
-      "message": "This app, plus any information it contains, will be deleted from your device."
+      "title": "Dezinstalați această aplicație?",
+      "message": "Această aplicație, plus orice informație pe care o conține, va fi ștearsă de pe dispozitivul dvs."
     }
   },
   "numbers": {
     "percent": "{{value}}%",
-    "decimal": "{{whole}}.{{decimal}}",
+    "decimal": "{{whole}},{{decimal}}",
     "bytes": {
       "b": "{{size}} B",
       "kb": "{{size}} KB",

@@ -2,24 +2,24 @@
   "actions": {
     "ok": "Ok",
     "okay": "Okay",
-    "yes": "Yes",
-    "no": "No",
+    "yes": "はい",
+    "no": "いいえ",
     "uninstall": "Uninstall",
     "cancel": "Cancel",
     "apply": "Apply",
     "try_again": "Try again",
-    "light": "Light",
-    "dark": "Dark",
+    "light": "白",
+    "dark": "黑",
     "remove": "Remove",
-    "on": "On",
-    "off": "Off",
+    "on": "オン",
+    "off": "オフ",
     "locked": "Locked",
     "unlocked": "Unlocked"
   },
   "search": {
-    "title": "Search",
-    "no_results": "No results for {{query}}",
-    "search_store": "search Store"
+    "title": "検索",
+    "no_results": "{{query}} の結果はありません",
+    "search_store": "ストアを検索"
   },
   "errors": {
     "webview_old": "WebView is too old!",
@@ -27,8 +27,8 @@
     "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "Pin to home",
-    "uninstall": "Uninstall"
+    "pin_to_home": "ホーム画面に追加",
+    "uninstall": "削除"
   },
   "alerts": {
     "default": {
@@ -36,19 +36,19 @@
       "message": "Message"
     },
     "uninstall": {
-      "title": "Uninstall this app?",
-      "message": "This app, plus any information it contains, will be deleted from your device."
+      "title": "このアプリを削除しますか？",
+      "message": "このアプリとそれに含まれるすべての情報はデバイスから削除されます。"
     }
   },
   "numbers": {
     "percent": "{{value}}%",
     "decimal": "{{whole}}.{{decimal}}",
     "bytes": {
-      "b": "{{size}} B",
-      "kb": "{{size}} KB",
-      "mb": "{{size}} MB",
-      "gb": "{{size}} GB",
-      "tb": "{{size}} TB"
+      "b": "{{size}}B",
+      "kb": "{{size}}KB",
+      "mb": "{{size}}MB",
+      "gb": "{{size}}GB",
+      "tb": "{{size}}TB"
     }
   }
 }

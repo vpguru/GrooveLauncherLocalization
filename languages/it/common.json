@@ -2,24 +2,24 @@
   "actions": {
     "ok": "Ok",
     "okay": "Okay",
-    "yes": "Yes",
+    "yes": "Sì",
     "no": "No",
-    "uninstall": "Uninstall",
+    "uninstall": "Disinstallare",
     "cancel": "Cancel",
     "apply": "Apply",
     "try_again": "Try again",
-    "light": "Light",
-    "dark": "Dark",
-    "remove": "Remove",
-    "on": "On",
-    "off": "Off",
+    "light": "Chiaro",
+    "dark": "Scuro",
+    "remove": "Rimuovi",
+    "on": "Sì",
+    "off": "No",
     "locked": "Locked",
     "unlocked": "Unlocked"
   },
   "search": {
-    "title": "Search",
-    "no_results": "No results for {{query}}",
-    "search_store": "search Store"
+    "title": "Cerca",
+    "no_results": "Nessun risultato per {{query}}",
+    "search_store": "cerca nello Store"
   },
   "errors": {
     "webview_old": "WebView is too old!",
@@ -27,8 +27,8 @@
     "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "Pin to home",
-    "uninstall": "Uninstall"
+    "pin_to_home": "Aggiungi a home",
+    "uninstall": "Rimuovi"
   },
   "alerts": {
     "default": {
@@ -36,16 +36,16 @@
       "message": "Message"
     },
     "uninstall": {
-      "title": "Uninstall this app?",
-      "message": "This app, plus any information it contains, will be deleted from your device."
+      "title": "Vuoi rimuovere l'app?",
+      "message": "Rimuoverò dal dispositivo l’app e tutte le informazioni che contiene."
     }
   },
   "numbers": {
     "percent": "{{value}}%",
-    "decimal": "{{whole}}.{{decimal}}",
+    "decimal": "{{whole}},{{decimal}}",
     "bytes": {
       "b": "{{size}} B",
-      "kb": "{{size}} KB",
+      "kb": "{{size}} B",
       "mb": "{{size}} MB",
       "gb": "{{size}} GB",
       "tb": "{{size}} TB"

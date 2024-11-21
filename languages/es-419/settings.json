@@ -99,7 +99,7 @@
   "about": {
     "title": "Acerca de",
     "description": "Groove Launcher",
-    "version": "Version: {{version}}",
+    "version": "Versión: {{version}}",
     "webview_version": "Versión de WebView: {{version}}",
     "reset_launcher": "Restablecer launcher",
     "check_updates": "Chequear actualizaciones"

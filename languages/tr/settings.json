@@ -1,116 +1,116 @@
 {
-  "title": "Settings",
+  "title": "Ayarlar",
   "tabs": {
-    "home": "Home",
-    "applications": "Applications"
+    "home": "Ana Ekran",
+    "applications": "Uygulamalar"
   },
   "theme": {
-    "title": "Home+Theme",
-    "accent_color": "Accent color",
-    "background": "Background",
-    "home_background": "Home background",
-    "choose_photo": "Choose photo",
-    "show_more_tiles": "Show more Tiles",
-    "friendly_accent": "Change your device's background and <span style='color: var(--accent-color)'>accent color</span> to match your mood today, this week, or all month.",
-    "friendly_tiles": "You can change the size and number of tiles available on your home screen.",
+    "title": "Ana Ekran+Tema",
+    "accent_color": "Tema rengi",
+    "background": "Arka plan",
+    "home_background": "Ana ekran arka planı",
+    "choose_photo": "Fotoğraf seç",
+    "show_more_tiles": "Daha fazla Kutucuk göster",
+    "friendly_accent": "Cihazınızın arka planını ve <span style='color: var(--accent-color)'>tema rengini</span> istediğiniz gibi değiştirin.",
+    "friendly_tiles": "Ana ekranınızdaki Kutucukların boyutunu ve sayısını değiştirebilirsiniz.",
     "themes": {
-      "light": "Light",
-      "dark": "Dark"
+      "light": "Açık",
+      "dark": "Koyu"
     }
   },
   "screen_rotation": {
-    "title": "Screen Rotation",
-    "auto_rotate": "Auto-rotate",
-    "rotation_lock": "Rotation lock",
-    "friendly_rotation_lock": "When Rotation lock is on, your home will stay in the current orientation when you rotate your device."
+    "title": "Ekran Döndürme",
+    "auto_rotate": "Otomatik-döndürme",
+    "rotation_lock": "Ekran yön kilidi",
+    "friendly_rotation_lock": "Ekran yön kilidi açıkken, cihazınızı döndürdüğünüzde ekranınız geçerli yönlendirmede kalır."
   },
   "language": {
-    "title": "Language"
+    "title": "Dil"
   },
   "ease_of_access": {
-    "title": "Ease of Access",
-    "description": "text size, high contrast, and more",
-    "reduce_motion": "Reduce motion",
-    "scaling": "Scaling",
+    "title": "Erişim Kolaylığı",
+    "description": "metin boyutu, yüksek kontrast ve diğer özellikler",
+    "reduce_motion": "Hareketi azalt",
+    "scaling": "Ölçekleme",
     "font": {
       "title": "Font",
-      "choose": "Choose...",
-      "remove": "Remove Font"
+      "choose": "Seç...",
+      "remove": "Fontu kaldır"
     }
   },
   "advanced": {
-    "title": "Advanced",
-    "description": "package manager and other tweaks",
+    "title": "Gelişmiş",
+    "description": "paket yöneticisi ve diğer ayarlamalar",
     "debugging": {
-      "title": "Debugging",
-      "dump_apps": "Dump Installed Apps JSON"
+      "title": "Hata ayıklama",
+      "dump_apps": "Yüklü uygulamaları JSON olarak dökümle"
     },
     "package_manager": {
-      "title": "Package manager",
-      "title_experimental": "Package manager (EXPERIMENTAL)",
-      "system": "System",
-      "root": "Root",
+      "title": "Paket yöneticisi",
+      "title_experimental": "Paket yöneticisi (DENEYSEL)",
+      "system": "Sistem",
+      "root": "Kök",
       "shizuku": "Shizuku"
     }
   },
   "alerts": {
     "reset": {
-      "title": "Reset Groove Launcher?",
-      "message": "This will reset your launcher to its default settings. All customizations will be lost."
+      "title": "Groove Başlatıcısı sıfırlansın mı?",
+      "message": "Bu, başlatıcınızı varsayılan ayarlarına sıfırlar. Tüm kişiselleştirmeler kaybedilecektir."
     },
     "root": {
-      "title": "Root Access Required",
-      "message": "Root access is required to perform this action. Please grant root access to continue."
+      "title": "Kök Erişimi Gereksinimi",
+      "message": "Bu eylemi gerçekleştmek için kök erişimi gereklidir. Devam etmek için lütfenkök erişimine izin verin."
     },
     "shizuku": {
-      "title": "Shizuku Permission Required",
-      "message": "Shizuku permission is required to perform this action. Please grant Shizuku permission to continue."
+      "title": "Shizuku İzni Gereksinimi",
+      "message": "Bu eylemi gerçekleştirmek için Shizuku izni gereklidir. Devam etmek için lütfen Shizuku izni verin."
     },
     "update_available": {
-      "title": "Update Available!",
-      "message": "A new version <strong>({{version}})</strong> is available, sized at {{size}}. Would you like to download it?",
-      "message2": "A new version <strong>({{version}})</strong> is available. Would you like to download it?"
+      "title": "Güncelleme Mevcut!",
+      "message": "{{size}} boyutlu yeni bir sürüm <strong>({{version}})</strong> mevcuttur. İndirmek ister misiniz?",
+      "message2": "Yeni bir sürüm <strong>({{version}})</strong> mevcut. İndirmek ister misiniz?"
     },
     "update_check_failed": {
-      "title": "Update Check Failed!",
-      "message": "Unable to check for app updates. Please try again later."
+      "title": "Güncelleme Kontrol Edilemedi!",
+      "message": "Uygulama güncellemeleri kontrol edilemiyor. Lütfen daha sonra tekrar deneyin."
     },
     "up_to_date": {
-      "title": "Up to Date!",
-      "message": "You have the grooviest version of Groove Launcher."
+      "title": "Son sürümdesiniz!",
+      "message": "En kıyak Groove Başlatıcısı'nı kullanıyorsunuz."
     },
     "font_read_error": {
-      "title": "Unsupported file format",
-      "message": "The font file isn’t valid. Make sure it’s a .ttf file and try uploading again."
+      "title": "Desteklenmeyen dosya formatı",
+      "message": "Bu font dosyası geçerli değildir. Lütfen .ttf dosyası olduğundan emin olun ve tekrar yüklemeyi deneyin."
     },
     "font_load_error": {
-      "title": "Can’t load font",
-      "message": "We couldn’t read the font file. Only .ttf fonts are supported. Please try a different file."
+      "title": "Font yüklenemedi",
+      "message": "Font dosyası okunamadı. Sadece .ttf dosyaları desteklenir. Farklı bir dosya yüklemeyi deneyin."
     },
     "copy_failed": {
-      "title": "Copy Failed!",
-      "message": "Unable to copy apps list. Please try again."
+      "title": "Kopyalama Başarısız!",
+      "message": "Uygulamalar listesi kopyalanamadı. Lütfen daha sonra tekrar deneyin."
     },
     "copy_success": {
-      "title": "Copied to Clipboard!",
-      "message": "Installed apps copied to JSON format successfully."
+      "title": "Panoya kopyalandı!",
+      "message": "Yüklü uygulamalar başarıyla JSON formatında panoya kopyalandı."
     }
   },
   "about": {
-    "title": "About",
-    "description": "Groove Launcher",
-    "version": "Version: {{version}}",
-    "webview_version": "WebView Version: {{version}}",
-    "reset_launcher": "Reset Launcher",
-    "check_updates": "Check Updates"
+    "title": "Hakkında",
+    "description": "Groove Başlatıcısı",
+    "version": "Versiyon: {{version}}",
+    "webview_version": "WebView Versiyonu: {{version}}",
+    "reset_launcher": "Başlatıcıyı Sıfırla",
+    "check_updates": "Güncellemeleri Al"
   },
   "apps": {
-    "uninstall_app": "Uninstall App"
+    "uninstall_app": "Uygulamayı Kaldır"
   },
   "roles": {
-    "team_groove": "Team Groove",
-    "developer": "Developer",
-    "icon_design": "Icon Design",
-    "logo_design": "Logo Design"
+    "team_groove": "Groove Takımı",
+    "developer": "Geliştirici",
+    "icon_design": "Simge Tasarımı",
+    "logo_design": "Logo Tasarımı"
   }
 }

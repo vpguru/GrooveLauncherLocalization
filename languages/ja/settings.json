@@ -1,35 +1,35 @@
 {
-  "title": "Settings",
+  "title": "設定",
   "tabs": {
-    "home": "Home",
+    "home": "ホーム",
     "applications": "Applications"
   },
   "theme": {
-    "title": "Home+Theme",
-    "accent_color": "Accent color",
-    "background": "Background",
-    "home_background": "Home background",
-    "choose_photo": "Choose photo",
-    "show_more_tiles": "Show more Tiles",
-    "friendly_accent": "Change your device's background and <span style='color: var(--accent-color)'>accent color</span> to match your mood today, this week, or all month.",
-    "friendly_tiles": "You can change the size and number of tiles available on your home screen.",
+    "title": "ホーム+テーマ",
+    "accent_color": "アクセントカラー",
+    "background": "背景",
+    "home_background": "ホーム画面の背景",
+    "choose_photo": "写真を選択",
+    "show_more_tiles": "タイル数を増やす",
+    "friendly_accent": "その日、その週、その月の気分に合わせてディスプレイの背景や<span style='color: var(--accent-color)'>アクセントカラー</span>を変更できます。",
+    "friendly_tiles": "ホーム画面に表示するタイルのサイズと数を変更できます。",
     "themes": {
-      "light": "Light",
-      "dark": "Dark"
+      "light": "白",
+      "dark": "黑"
     }
   },
   "screen_rotation": {
-    "title": "Screen Rotation",
+    "title": "画面の向き",
     "auto_rotate": "Auto-rotate",
-    "rotation_lock": "Rotation lock",
-    "friendly_rotation_lock": "When Rotation lock is on, your home will stay in the current orientation when you rotate your device."
+    "rotation_lock": "回転ロック",
+    "friendly_rotation_lock": "［回転ロック］をオンにすると、電話を回転させても画面の向きが変わりません。"
   },
   "language": {
-    "title": "Language"
+    "title": "言語"
   },
   "ease_of_access": {
-    "title": "Ease of Access",
-    "description": "text size, high contrast, and more",
+    "title": "簡単操作",
+    "description": "文字サイズ、ハイコントラスト、その他",
     "reduce_motion": "Reduce motion",
     "scaling": "Scaling",
     "font": {
@@ -97,7 +97,7 @@
     }
   },
   "about": {
-    "title": "About",
+    "title": "情報",
     "description": "Groove Launcher",
     "version": "Version: {{version}}",
     "webview_version": "WebView Version: {{version}}",

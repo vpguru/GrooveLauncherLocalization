@@ -1,7 +1,7 @@
 {
     "common": {
-        "next": "next",
-        "previous": "previous",
+        "next": "次へ",
+        "previous": "前へ",
         "pleaseWait": "Please wait..."
     },
     "welcome": {
@@ -16,14 +16,14 @@
         "description": "Let's ensure your data is moved across safely! Click next to continue."
     },
     "access": {
-        "title": "Ease of Access",
+        "title": "簡単操作",
         "description": "Customize your experience to ensure that everything feels just right.",
-        "background": "Background",
+        "background": "背景",
         "scaling": "Scaling"
     },
     "themes": {
-        "light": "Light",
-        "dark": "Dark"
+        "light": "白",
+        "dark": "黑"
     },
     "colors": {
         "title": "Choose your color",

@@ -1,39 +1,39 @@
 {
     "common": {
-        "next": "next",
-        "previous": "previous",
-        "pleaseWait": "Please wait..."
+        "next": "înainte",
+        "previous": "înapoi",
+        "pleaseWait": "Vă rugăm să așteptați..."
     },
     "welcome": {
-        "install": "Welcome",
-        "update": "Welcome back",
-        "appName": "Groove Launcher",
-        "setupIntro": "Let's setup your experience in a few short steps.",
-        "warning": "Warning: This is pre-release software and may contain bugs."
+        "install": "Bine ați venit",
+        "update": "Bine ați revenit",
+        "appName": "Lansator Groove",
+        "setupIntro": "Haideți să vă configurăm experiența în câțiva pași scurți.",
+        "warning": "Atenție: Aceasta este o aplicație de pre-lansare și poate conține bug-uri."
     },
     "wizard": {
-        "title": "Update Wizard",
-        "description": "Let's ensure your data is moved across safely! Click next to continue."
+        "title": "Asistent de Actualizare",
+        "description": "Haideți să ne asigurăm că datele dvs. sunt mutate în siguranță. Apăsați butonul \"înainte\" pentru a continua."
     },
     "access": {
-        "title": "Ease of Access",
-        "description": "Customize your experience to ensure that everything feels just right.",
-        "background": "Background",
-        "scaling": "Scaling"
+        "title": "Simplificare Acces",
+        "description": "Personalizați-vă experiența pentru a vă asigura că totul se simte perfect.",
+        "background": "Fundal",
+        "scaling": "Scalare"
     },
     "themes": {
-        "light": "Light",
-        "dark": "Dark"
+        "light": "Deschis",
+        "dark": "Închis"
     },
     "colors": {
-        "title": "Choose your color",
-        "description": "Pick a color that matches your mood."
+        "title": "Alegeți culoarea dvs",
+        "description": "Alegeți o culoare care se potrivește cu starea dvs."
     },
     "whatsnew": {
-        "title": "What's New?"
+        "title": "Ce E Nou?"
     },
     "finish": {
-        "title": "Get ready to Groove",
-        "description": "Your setup is done. Time to dive in!"
+        "title": "Pregătiți-vă să Groove-uiți",
+        "description": "Configurarea dvs. este gata. E timpul să începem!"
     }
 }

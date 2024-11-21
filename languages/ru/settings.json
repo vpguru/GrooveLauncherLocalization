@@ -1,116 +1,116 @@
 {
-  "title": "Settings",
+  "title": "Настройки",
   "tabs": {
-    "home": "Home",
-    "applications": "Applications"
+    "home": "Рабочий Стол",
+    "applications": "Приложения"
   },
   "theme": {
-    "title": "Home+Theme",
-    "accent_color": "Accent color",
-    "background": "Background",
-    "home_background": "Home background",
-    "choose_photo": "Choose photo",
-    "show_more_tiles": "Show more Tiles",
-    "friendly_accent": "Change your device's background and <span style='color: var(--accent-color)'>accent color</span> to match your mood today, this week, or all month.",
-    "friendly_tiles": "You can change the size and number of tiles available on your home screen.",
+    "title": "Рабочий Стол+Тема",
+    "accent_color": "Цвет элементов",
+    "background": "Фон",
+    "home_background": "Фон рабочего стола",
+    "choose_photo": "Выбрать фото",
+    "show_more_tiles": "Показывать больше иконок",
+    "friendly_accent": "Измените фон телефона и <span style='color: var(--accent-color)'>цвет элементов</span> по вашему вкусу на день, неделю или месяц.",
+    "friendly_tiles": "Вы можете изменить размер и количество иконок, доступных на рабочем столе.",
     "themes": {
-      "light": "Light",
-      "dark": "Dark"
+      "light": "Светлый",
+      "dark": "Тёмный"
     }
   },
   "screen_rotation": {
-    "title": "Screen Rotation",
-    "auto_rotate": "Auto-rotate",
-    "rotation_lock": "Rotation lock",
-    "friendly_rotation_lock": "When Rotation lock is on, your home will stay in the current orientation when you rotate your device."
+    "title": "Поворот Экрана",
+    "auto_rotate": "Автоповорот",
+    "rotation_lock": "Блокировка поворота экрана",
+    "friendly_rotation_lock": "Если включена блокировка поворота экрана, экран будет сохранять ориентацию при повороте телефона."
   },
   "language": {
-    "title": "Language"
+    "title": "Язык"
   },
   "ease_of_access": {
-    "title": "Ease of Access",
-    "description": "text size, high contrast, and more",
-    "reduce_motion": "Reduce motion",
-    "scaling": "Scaling",
+    "title": "Специальные Возможности",
+    "description": "размер текста, высокая контрастность и многое другое",
+    "reduce_motion": "Уменьшить движение",
+    "scaling": "Масштаб",
     "font": {
-      "title": "Font",
-      "choose": "Choose...",
-      "remove": "Remove Font"
+      "title": "Шрифт",
+      "choose": "Выбрать...",
+      "remove": "Удалить Шрифт"
     }
   },
   "advanced": {
-    "title": "Advanced",
-    "description": "package manager and other tweaks",
+    "title": "Расширенные",
+    "description": "менеджер пакетов и другие твики",
     "debugging": {
-      "title": "Debugging",
-      "dump_apps": "Dump Installed Apps JSON"
+      "title": "Отладка",
+      "dump_apps": "Дамп установленных приложений JSON"
     },
     "package_manager": {
-      "title": "Package manager",
-      "title_experimental": "Package manager (EXPERIMENTAL)",
-      "system": "System",
-      "root": "Root",
+      "title": "Менеджер пакетов",
+      "title_experimental": "Менеджер пакетов (ЭКСПЕРИМЕНТАЛЬНО)",
+      "system": "Система",
+      "root": "Рут",
       "shizuku": "Shizuku"
     }
   },
   "alerts": {
     "reset": {
-      "title": "Reset Groove Launcher?",
-      "message": "This will reset your launcher to its default settings. All customizations will be lost."
+      "title": "Сбросить Groove Launcher?",
+      "message": "Это сбросит ваш лаунчер к его настройкам по умолчанию. Все настройки будут потеряны."
     },
     "root": {
-      "title": "Root Access Required",
-      "message": "Root access is required to perform this action. Please grant root access to continue."
+      "title": "Требуется Рут Доступ",
+      "message": "Для выполнения этого действия требуется рут доступ. Предоставьте права суперпользователя для продолжения."
     },
     "shizuku": {
-      "title": "Shizuku Permission Required",
-      "message": "Shizuku permission is required to perform this action. Please grant Shizuku permission to continue."
+      "title": "Требуется Разрешение Shizuku",
+      "message": "Для выполнения этого действия требуется разрешение Shizuku. Пожалуйста, предоставьте разрешение Shizuku для продолжения."
     },
     "update_available": {
-      "title": "Update Available!",
-      "message": "A new version <strong>({{version}})</strong> is available, sized at {{size}}. Would you like to download it?",
-      "message2": "A new version <strong>({{version}})</strong> is available. Would you like to download it?"
+      "title": "Доступно Обновление!",
+      "message": "Доступна новая версия <strong>({{version}})</strong> размером на {{size}}. Хотите загрузить ее?",
+      "message2": "Доступна новая версия <strong>({{version}})</strong>. Хотите загрузить ее?"
     },
     "update_check_failed": {
-      "title": "Update Check Failed!",
-      "message": "Unable to check for app updates. Please try again later."
+      "title": "Проверка Обновлений Не Удалась!",
+      "message": "Не удалось проверить наличие обновлений приложения. Пожалуйста, повторите попытку позже."
     },
     "up_to_date": {
-      "title": "Up to Date!",
-      "message": "You have the grooviest version of Groove Launcher."
+      "title": "Вы в курсе событий!",
+      "message": "У вас лучшая версия Groove Launcher."
     },
     "font_read_error": {
-      "title": "Unsupported file format",
-      "message": "The font file isn’t valid. Make sure it’s a .ttf file and try uploading again."
+      "title": "Формат файла не поддерживается",
+      "message": "Файл шрифта недействителен. Убедитесь, что это файл .ttf и попробуйте загрузить снова."
     },
     "font_load_error": {
-      "title": "Can’t load font",
-      "message": "We couldn’t read the font file. Only .ttf fonts are supported. Please try a different file."
+      "title": "Не удалось загрузить шрифт",
+      "message": "Не удалось прочитать файл шрифта. Поддерживаются только шрифты .ttf. Попробуйте другой файл."
     },
     "copy_failed": {
-      "title": "Copy Failed!",
-      "message": "Unable to copy apps list. Please try again."
+      "title": "Сбой копирования!",
+      "message": "Не удается скопировать список приложений. Пожалуйста, попробуйте еще раз."
     },
     "copy_success": {
-      "title": "Copied to Clipboard!",
-      "message": "Installed apps copied to JSON format successfully."
+      "title": "Скопировано в буфер обмена!",
+      "message": "Установленные приложения скопированы в формат JSON."
     }
   },
   "about": {
-    "title": "About",
+    "title": "О приложении",
     "description": "Groove Launcher",
-    "version": "Version: {{version}}",
-    "webview_version": "WebView Version: {{version}}",
-    "reset_launcher": "Reset Launcher",
-    "check_updates": "Check Updates"
+    "version": "Версия: {{version}}",
+    "webview_version": "Версия WebView: {{version}}",
+    "reset_launcher": "Сбросить лаунчер",
+    "check_updates": "Проверить обновления"
   },
   "apps": {
-    "uninstall_app": "Uninstall App"
+    "uninstall_app": "Удалить приложение"
   },
   "roles": {
-    "team_groove": "Team Groove",
-    "developer": "Developer",
-    "icon_design": "Icon Design",
-    "logo_design": "Logo Design"
+    "team_groove": "Команда Groove",
+    "developer": "Разработчик",
+    "icon_design": "Дизайн значка",
+    "logo_design": "Дизайн логотипа"
   }
 }
