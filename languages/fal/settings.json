@@ -1,0 +1,116 @@
+{
+  "title": "Tanzimut",
+  "tabs": {
+    "home": "Xune",
+    "applications": "Barnumehu"
+  },
+  "theme": {
+    "title": "Xune+Pwste",
+    "accent_color": "Rangé taëkidi",
+    "background": "Paszamine",
+    "home_background": "Paszamineyé xune",
+    "choose_photo": "Entexubé aks",
+    "show_more_tiles": "Namuyesce Kuscihuyé bisctar",
+    "friendly_accent": "Paszamine va <span style='color: var(--accent-color)'>rangé taëkidi</span> dastguhé xod ru har jwr ke mixuhid tagcyir dahid.",
+    "friendly_tiles": "Scoma mitavunid anduze va teëdudé kuscihuyé mójwd dar safheyé asliyetun ru tagcyir dahid.",
+    "themes": {
+      "light": "Róschan",
+      "dark": "Turik"
+    }
+  },
+  "screen_rotation": {
+    "title": "Carxescé Safhe",
+    "auto_rotate": "Carxescé xodkur",
+    "rotation_lock": "Qoflé carxesc",
+    "friendly_rotation_lock": "Hengumi ke qoflé carxesc róscan buscad, gwsciyé scomu dar hamin jahatgiresc xuhad mund agar un ru becarxunid."
+  },
+  "language": {
+    "title": "Zabun"
+  },
+  "ease_of_access": {
+    "title": "Usuniyé Dastresi",
+    "description": "anduzeyé matn, kontrusté bulu, va bischtar",
+    "reduce_motion": "Harekat ru kuhesc dahid",
+    "scaling": "Meqyusbandi",
+    "font": {
+      "title": "Font",
+      "choose": "Entexub...",
+      "remove": "Bardusctané Font"
+    }
+  },
+  "advanced": {
+    "title": "Piscrafte",
+    "description": "modiré baste va digar tarfandhu",
+    "debugging": {
+      "title": "Esckulzoduyi",
+      "dump_apps": "Hazfé barnumehuyé nasb scodeyé JSON"
+    },
+    "package_manager": {
+      "title": "Gardunandeyé baste",
+      "title_experimental": "Gardunandeyé baste (UZMUYESCI)",
+      "system": "Sumune",
+      "root": "Root",
+      "shizuku": "Shizuku"
+    }
+  },
+  "alerts": {
+    "reset": {
+      "title": "Launcheré Groove buznescuni scavad?",
+      "message": "In monjar be buznescuni scodané launcher be tanzimuté piscfarz xuhad scod. Hameyé sefurescisuzihu az dast xuhand raft."
+    },
+    "root": {
+      "title": "Dastresiyé root niyuz ast",
+      "message": "Dastresiyé root baruyé anjumé in konesc vojwd durad. Lotfan baruyé edume dastresiyé root ru suder konid."
+    },
+    "shizuku": {
+      "title": "Dastresiyé shizuku niyuz ast",
+      "message": "Dastresiyé shizuku baruyé anjumé in konesc vojwd durad. Lotfan baruyé edume dastresiyé shizuku ru suder konid."
+    },
+    "update_available": {
+      "title": "Berwzresuni mójwd ast!",
+      "message": "Yek nosxeyé jadid <strong>({{version}}) </strong> bu hajmé {{size}} mójwd aast. Uyu mixuhid burgiri konidasc?",
+      "message2": "Yek nosxeyé jadid <strong>({{version}}) </strong> mójwd ast. Uyu mixuhid burgiri konidasc?"
+    },
+    "update_check_failed": {
+      "title": "Barresiyé Berwzresuni Anjum Nascod!",
+      "message": "Emkune barresiyé berwzresunihuyé barnumehu vojwd nadurad. Lotfan baëdan dobure talusc konid."
+    },
+    "up_to_date": {
+      "title": "Be Rwz!",
+      "message": "Scomu Groovitarin nosxeyé Launcheré Groove ru durid."
+    },
+    "font_read_error": {
+      "title": "Qulebé fuylé posctibuni nascode",
+      "message": "Font moëtabar ni'st. Motmaen scavid ke in yek fuylé .ttf ast va sepas dobure talusc konid."
+    },
+    "font_load_error": {
+      "title": "Nemitavun font ru burgozuri kard",
+      "message": "Mu natavunestim fuylé font ru bexunim. Faqat fonthuyé .ttf posctibuni miscavand. Lotfan bu fuylé motefuveti talusc konid."
+    },
+    "copy_failed": {
+      "title": "Kopi anjum nascod!",
+      "message": "Emkuné kopiyé fehresté barnumehu vojwd nadurad. Lotfan dobure talusc konid."
+    },
+    "copy_success": {
+      "title": "Dar boridedun kopi scod!",
+      "message": "Barnumehuyé nasb scode bu movaffaqiyat be qulebé JSON kopi scodand."
+    }
+  },
+  "about": {
+    "title": "Darbure",
+    "description": "Launcheré Groove",
+    "version": "Nosxe: {{version}}",
+    "webview_version": "Nosxeyé WebView: {{version}}",
+    "reset_launcher": "Buznescuniyé Launcher",
+    "check_updates": "Barresiyé Berwzresunihu"
+  },
+  "apps": {
+    "uninstall_app": "Hazfé Barnume"
+  },
+  "roles": {
+    "team_groove": "Timé Groove",
+    "developer": "Tóseedahande",
+    "icon_design": "Tarruhiyé Cóun",
+    "logo_design": "Tarruhiyé Neschunvure"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "actions": {
+    "ok": "Buscad",
+    "okay": "Buscad",
+    "yes": "Bale",
+    "no": "Xeyr",
+    "uninstall": "Hazf kon",
+    "cancel": "Lagcv kon",
+    "apply": "Eëmul kon",
+    "try_again": "Dobure talusc konid",
+    "light": "Róscan",
+    "dark": "Turik",
+    "remove": "Bardusctan",
+    "on": "Róscan",
+    "off": "Xumwsc",
+    "locked": "Qofl scode",
+    "unlocked": "Qofl nascode"
+  },
+  "search": {
+    "title": "Jostojw",
+    "no_results": "Natijei baruyé {{query}} yuft nascod",
+    "search_store": "dar Buzur jostojw kon"
+  },
+  "errors": {
+    "webview_old": "WebView xeyli qadimi ast!",
+    "home_reset": "Safheyé asliyé scomu be dalilé xatuyé sumunei buznescuni scod :( Lotfan in ru gozuresc dahid:",
+    "launch_timeout": "Zamuné ziyudi baruyé burgozuriyé sumune twl kescid"
+  },
+  "app_menu": {
+    "pin_to_home": "Sanjuq kardan be xune",
+    "uninstall": "Hazf"
+  },
+  "alerts": {
+    "default": {
+      "title": "Hoscdur!",
+      "message": "Payum"
+    },
+    "uninstall": {
+      "title": "In barnume hazf scavad?",
+      "message": "In barnume, hamruh bu hameyé etteluuti ke darbardurad, az dastguhé scomu hazf xuhad scod."
+    }
+  },
+  "numbers": {
+    "percent": "{{value}}%",
+    "decimal": "{{whole}}.{{decimal}}",
+    "bytes": {
+      "b": "{{size}} B",
+      "kb": "{{size}} KB",
+      "mb": "{{size}} MB",
+      "gb": "{{size}} GB",
+      "tb": "{{size}} TB"
+    }
+  }
+}

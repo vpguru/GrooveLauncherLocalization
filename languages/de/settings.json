@@ -11,8 +11,8 @@
     "home_background": "Starthintergrund",
     "choose_photo": "Foto auswählen",
     "show_more_tiles": "Mehr Kacheln anzeigen",
-    "friendly_accent": "Ändern Sie die Hintergrundfarbe und die <span style='color: var(--accent-color)'>Akzentfarbe</span> Ihres Geräts passend zu Ihrer Stimmung - für heute, diese Woche oder den ganzen Monat.",
-    "friendly_tiles": "Sie können die Größe und die Anzahl der auf dem Startbildschirm angezeigten Kacheln ändern.",
+    "friendly_accent": "Ändere die Hintergrundfarbe und die <span style='color: var(--accent-color)'>Akzentfarbe</span> deines Gerätes passend zu deiner Stimmung - für heute, diese Woche oder den ganzen Monat.",
+    "friendly_tiles": "Du kannst die Größe und die Anzahl der auf dem Startbildschirm angezeigten Kacheln ändern.",
     "themes": {
       "light": "Hell",
       "dark": "Dunkel"
@@ -22,7 +22,7 @@
     "title": "Automatische Ausrichtung",
     "auto_rotate": "Automatisch drehen",
     "rotation_lock": "Rotationsperre",
-    "friendly_rotation_lock": "Bei aktivierter Rotationssperre bleibt die aktuelle Ausrichtung des Bildschirms erhalten, wenn Sie das Gerät drehen."
+    "friendly_rotation_lock": "Bei aktivierter Rotationssperre bleibt die aktuelle Ausrichtung des Bildschirms erhalten, wenn du das Gerät drehst."
   },
   "language": {
     "title": "Sprache"
@@ -30,12 +30,12 @@
   "ease_of_access": {
     "title": "Erleichterte Bedienung",
     "description": "Textgröße, hoher Kontrast und weitere Features",
-    "reduce_motion": "Bewegung reduzieren",
+    "reduce_motion": "Animationen reduzieren",
     "scaling": "Skalierung",
     "font": {
       "title": "Schriftart",
       "choose": "Wählen...",
-      "remove": "Schriftart Entfernen"
+      "remove": "Schriftart entfernen"
     }
   },
   "advanced": {
@@ -55,16 +55,16 @@
   },
   "alerts": {
     "reset": {
-      "title": "Groove Launcher Zurücksetzen?",
-      "message": "Dies wird Ihren Launcher auf seine Standardeinstellungen zurücksetzen. Alle Anpassungen gehen verloren."
+      "title": "Groove Launcher zurücksetzen?",
+      "message": "Dies wird deinen Launcher auf die Standardeinstellungen zurücksetzen. Alle Anpassungen gehen verloren."
     },
     "root": {
       "title": "Root-Zugriff erforderlich",
-      "message": "Für diese Aktion ist Root-Zugriff erforderlich. Bitte gewähren Sie Root-Zugriff, um fortzufahren."
+      "message": "Für diese Aktion ist Root-Zugriff erforderlich. Bitte gewähre Root-Zugriff, um fortzufahren."
     },
     "shizuku": {
       "title": "Shizuku-Berechtigung erforderlich",
-      "message": "Zur Durchführung dieser Aktion ist die Berechtigung von Shizuku erforderlich. Bitte erteile Shizuku die Berechtigung, fortzufahren."
+      "message": "Zur Durchführung dieser Aktion ist die Berechtigung von Shizuku erforderlich. Bitte erteile Shizuku die Berechtigung um fortzufahren."
     },
     "update_available": {
       "title": "Update verfügbar!",

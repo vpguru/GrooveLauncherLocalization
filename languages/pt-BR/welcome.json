@@ -1,39 +1,39 @@
 {
     "common": {
-        "next": "next",
-        "previous": "previous",
-        "pleaseWait": "Please wait..."
+        "next": "próximo",
+        "previous": "prévio",
+        "pleaseWait": "Aguarde..."
     },
     "welcome": {
-        "install": "Welcome",
-        "update": "Welcome back",
+        "install": "Bem-vindo",
+        "update": "Bem-vindo de volta",
         "appName": "Groove Launcher",
-        "setupIntro": "Let's setup your experience in a few short steps.",
-        "warning": "Warning: This is pre-release software and may contain bugs."
+        "setupIntro": "Vamos configurar sua experiência em algumas etapas curtas.",
+        "warning": "Aviso: este é um software pre-release e pode conter falhas."
     },
     "wizard": {
-        "title": "Update Wizard",
-        "description": "Let's ensure your data is moved across safely! Click next to continue."
+        "title": "Assistente de atualização",
+        "description": "Vamos garantir que seus dados sejam movidos com segurança! Clique em Avançar para continuar."
     },
     "access": {
-        "title": "Ease of Access",
-        "description": "Customize your experience to ensure that everything feels just right.",
-        "background": "Background",
-        "scaling": "Scaling"
+        "title": "Facilidade de acesso",
+        "description": "Personalize sua experiência para garantir que tudo pareça perfeito.",
+        "background": "Tela de fundo",
+        "scaling": "Escala"
     },
     "themes": {
-        "light": "Light",
-        "dark": "Dark"
+        "light": "Clara",
+        "dark": "Escura"
     },
     "colors": {
-        "title": "Choose your color",
-        "description": "Pick a color that matches your mood."
+        "title": "Escolha sua cor",
+        "description": "Escolha uma cor de destaque para expressar seu espirito."
     },
     "whatsnew": {
-        "title": "What's New?"
+        "title": "O que há de novo?"
     },
     "finish": {
-        "title": "Get ready to Groove",
-        "description": "Your setup is done. Time to dive in!"
+        "title": "Prepare-se para o Groove",
+        "description": "Sua configuração está pronta. Hora de mergulhar dentro!"
     }
 }

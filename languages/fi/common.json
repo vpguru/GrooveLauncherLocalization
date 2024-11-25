@@ -13,8 +13,8 @@
     "remove": "Poista",
     "on": "Käytössä",
     "off": "Ei käytössä",
-    "locked": "Kiinni",
-    "unlocked": "Auki"
+    "locked": "Lukittu",
+    "unlocked": "Ei lukittu"
   },
   "search": {
     "title": "Haku",
@@ -37,12 +37,12 @@
     },
     "uninstall": {
       "title": "Poistetaanko tämä sovellus?",
-      "message": "Tämä sovellus ja sen tiedot poistetaan puhelimestasi."
+      "message": "Tämä sovellus ja sen tiedot poistetaan laitteeltasi."
     }
   },
   "numbers": {
-    "percent": "{{value}}%",
-    "decimal": "{{whole}}.{{decimal}}",
+    "percent": "{{value}} %",
+    "decimal": "{{whole}},{{decimal}}",
     "bytes": {
       "b": "{{size}} B",
       "kb": "{{size}} KB",
