@@ -1,25 +1,25 @@
 {
   "actions": {
-    "ok": "Ok",
-    "okay": "Okay",
-    "yes": "Yes",
-    "no": "No",
-    "uninstall": "Uninstall",
+    "ok": "Εντάξει",
+    "okay": "Εντάξει",
+    "yes": "Ναι",
+    "no": "Όχι",
+    "uninstall": "Κατάργηση",
     "cancel": "Cancel",
     "apply": "Apply",
     "try_again": "Try again",
-    "light": "Light",
-    "dark": "Dark",
+    "light": "Ανοιχτό",
+    "dark": "Σκούρο",
     "remove": "Remove",
-    "on": "On",
-    "off": "Off",
+    "on": "Ενεργό",
+    "off": "Ανενεργό",
     "locked": "Locked",
     "unlocked": "Unlocked"
   },
   "search": {
-    "title": "Search",
-    "no_results": "No results for {{query}}",
-    "search_store": "search Store"
+    "title": "Αναζήτηση",
+    "no_results": "Δεν βρέθηκαν αποτελέσματα για {{query}}",
+    "search_store": "αναζήτηση στο Store"
   },
   "errors": {
     "webview_old": "WebView is too old!",
@@ -27,8 +27,8 @@
     "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "Pin to home",
-    "uninstall": "Uninstall"
+    "pin_to_home": "Καρφίτσωμα στην αρχική οθόνη",
+    "uninstall": "Κατάργηση"
   },
   "alerts": {
     "default": {
@@ -36,13 +36,13 @@
       "message": "Message"
     },
     "uninstall": {
-      "title": "Uninstall this app?",
-      "message": "This app, plus any information it contains, will be deleted from your device."
+      "title": "Να καταργηθεί η εφαρμογή;",
+      "message": "Αυτή η εφαρμογή και τυχόν πληροφορίες που περιέχει θα διαγραφούν από τη συσκευή σας."
     }
   },
   "numbers": {
     "percent": "{{value}}%",
-    "decimal": "{{whole}}.{{decimal}}",
+    "decimal": "{{whole}},{{decimal}}",
     "bytes": {
       "b": "{{size}} B",
       "kb": "{{size}} KB",

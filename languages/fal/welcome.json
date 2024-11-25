@@ -1,0 +1,39 @@
+{
+    "common": {
+        "next": "baëdi",
+        "previous": "qabli",
+        "pleaseWait": "Lotfan sabr konid..."
+    },
+    "welcome": {
+        "install": "Xosc umadid",
+        "update": "Mojaddadan xosc umadid",
+        "appName": "Launcheré Groove",
+        "setupIntro": "Ruhanduziyé tajrobeyé scomu ru dar cand qadamé kwtuh anjum dahim.",
+        "warning": "Hoscdur! In yek narmafzuré piscarze scode mibuscad va momken ast scumelé mosckeluti buscad."
+    },
+    "wizard": {
+        "title": "Judwgaré Berwzresuni",
+        "description": "Motmaen scavim ke dudehuyé scomu be dorosti montaqel scodeand! Baruyé edume baëdi ru kelik konid."
+    },
+    "access": {
+        "title": "Usuniyé Dastresi",
+        "description": "Baruyé motmaen scodanetun az in ke hame ciz tebqé meylé scomust tajrobeyétun ru sefurescisuzi konid.",
+        "background": "Paszamine",
+        "scaling": "Meqyusbandi"
+    },
+    "themes": {
+        "light": "Róscan",
+        "dark": "Turik"
+    },
+    "colors": {
+        "title": "Rangetun ru entexub konid",
+        "description": "Yek rang entexub konid ke bu ehsusetun suzgur buscad."
+    },
+    "whatsnew": {
+        "title": "Ce cizi jadid ast?"
+    },
+    "finish": {
+        "title": "Baruyé Groove umude buscid",
+        "description": "Ruhanduzitun tamum scod. Boro berim!"
+    }
+}

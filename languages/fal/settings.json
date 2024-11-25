@@ -1,0 +1,116 @@
+{
+  "title": "Tanzimut",
+  "tabs": {
+    "home": "Xune",
+    "applications": "Barnumehu"
+  },
+  "theme": {
+    "title": "Xune+Pwste",
+    "accent_color": "Rangé taëkidi",
+    "background": "Paszamine",
+    "home_background": "Paszamineyé xune",
+    "choose_photo": "Entexubé aks",
+    "show_more_tiles": "Namuyesce Kuscihuyé bisctar",
+    "friendly_accent": "Paszamine va <span style='color: var(--accent-color)'>rangé taëkidi</span> dastguhé xod ru har jwr ke mixuhid tagcyir dahid.",
+    "friendly_tiles": "Scoma mitavunid anduze va teëdudé kuscihuyé mójwd dar safheyé asliyetun ru tagcyir dahid.",
+    "themes": {
+      "light": "Róschan",
+      "dark": "Turik"
+    }
+  },
+  "screen_rotation": {
+    "title": "Carxescé Safhe",
+    "auto_rotate": "Carxescé xodkur",
+    "rotation_lock": "Qoflé carxesc",
+    "friendly_rotation_lock": "Hengumi ke qoflé carxesc róscan buscad, gwsciyé scomu dar hamin jahatgiresc xuhad mund agar un ru becarxunid."
+  },
+  "language": {
+    "title": "Zabun"
+  },
+  "ease_of_access": {
+    "title": "Usuniyé Dastresi",
+    "description": "anduzeyé matn, kontrusté bulu, va bischtar",
+    "reduce_motion": "Harekat ru kuhesc dahid",
+    "scaling": "Meqyusbandi",
+    "font": {
+      "title": "Font",
+      "choose": "Entexub...",
+      "remove": "Bardusctané Font"
+    }
+  },
+  "advanced": {
+    "title": "Piscrafte",
+    "description": "modiré baste va digar tarfandhu",
+    "debugging": {
+      "title": "Esckulzoduyi",
+      "dump_apps": "Hazfé barnumehuyé nasb scodeyé JSON"
+    },
+    "package_manager": {
+      "title": "Gardunandeyé baste",
+      "title_experimental": "Gardunandeyé baste (UZMUYESCI)",
+      "system": "Sumune",
+      "root": "Root",
+      "shizuku": "Shizuku"
+    }
+  },
+  "alerts": {
+    "reset": {
+      "title": "Launcheré Groove buznescuni scavad?",
+      "message": "In monjar be buznescuni scodané launcher be tanzimuté piscfarz xuhad scod. Hameyé sefurescisuzihu az dast xuhand raft."
+    },
+    "root": {
+      "title": "Dastresiyé root niyuz ast",
+      "message": "Dastresiyé root baruyé anjumé in konesc vojwd durad. Lotfan baruyé edume dastresiyé root ru suder konid."
+    },
+    "shizuku": {
+      "title": "Dastresiyé shizuku niyuz ast",
+      "message": "Dastresiyé shizuku baruyé anjumé in konesc vojwd durad. Lotfan baruyé edume dastresiyé shizuku ru suder konid."
+    },
+    "update_available": {
+      "title": "Berwzresuni mójwd ast!",
+      "message": "A new version <strong>({{version}})</strong> is available, sized at {{size}}. Would you like to download it?",
+      "message2": "A new version <strong>({{version}})</strong> is available. Would you like to download it?"
+    },
+    "update_check_failed": {
+      "title": "Update Check Failed!",
+      "message": "Unable to check for app updates. Please try again later."
+    },
+    "up_to_date": {
+      "title": "Up to Date!",
+      "message": "You have the grooviest version of Groove Launcher."
+    },
+    "font_read_error": {
+      "title": "Unsupported file format",
+      "message": "The font file isn’t valid. Make sure it’s a .ttf file and try uploading again."
+    },
+    "font_load_error": {
+      "title": "Can’t load font",
+      "message": "We couldn’t read the font file. Only .ttf fonts are supported. Please try a different file."
+    },
+    "copy_failed": {
+      "title": "Copy Failed!",
+      "message": "Unable to copy apps list. Please try again."
+    },
+    "copy_success": {
+      "title": "Copied to Clipboard!",
+      "message": "Installed apps copied to JSON format successfully."
+    }
+  },
+  "about": {
+    "title": "About",
+    "description": "Groove Launcher",
+    "version": "Version: {{version}}",
+    "webview_version": "WebView Version: {{version}}",
+    "reset_launcher": "Reset Launcher",
+    "check_updates": "Check Updates"
+  },
+  "apps": {
+    "uninstall_app": "Uninstall App"
+  },
+  "roles": {
+    "team_groove": "Team Groove",
+    "developer": "Developer",
+    "icon_design": "Icon Design",
+    "logo_design": "Logo Design"
+  }
+}

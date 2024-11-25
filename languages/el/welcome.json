@@ -16,14 +16,14 @@
         "description": "Let's ensure your data is moved across safely! Click next to continue."
     },
     "access": {
-        "title": "Ease of Access",
+        "title": "Διευκόλυνση Πρόσβασης",
         "description": "Customize your experience to ensure that everything feels just right.",
-        "background": "Background",
-        "scaling": "Scaling"
+        "background": "Φόντο",
+        "scaling": "Κλιμάκωση"
     },
     "themes": {
-        "light": "Light",
-        "dark": "Dark"
+        "light": "Ανοιχτό",
+        "dark": "Σκούρο"
     },
     "colors": {
         "title": "Choose your color",

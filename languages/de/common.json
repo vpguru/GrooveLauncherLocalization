@@ -23,8 +23,8 @@
   },
   "errors": {
     "webview_old": "WebView ist veraltet!",
-    "home_reset": "Der Startbildschirm wurde aufgrund eines fatalen Fehlers zurückgesetzt :( bitte melden:",
-    "launch_timeout": "System Start dauerte zu lange"
+    "home_reset": "Der Startbildschirm wurde aufgrund eines fatalen Fehlers zurückgesetzt. Bitte melden:",
+    "launch_timeout": "Systemstart dauerte zu lange"
   },
   "app_menu": {
     "pin_to_home": "Am Startbildschirm anheften",
