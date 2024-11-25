@@ -68,47 +68,47 @@
     },
     "update_available": {
       "title": "Berwzresuni mójwd ast!",
-      "message": "A new version <strong>({{version}})</strong> is available, sized at {{size}}. Would you like to download it?",
-      "message2": "A new version <strong>({{version}})</strong> is available. Would you like to download it?"
+      "message": "Yek nosxeyé jadid <strong>({{version}}) </strong> bu hajmé {{size}} mójwd aast. Uyu mixuhid burgiri konidasc?",
+      "message2": "Yek nosxeyé jadid <strong>({{version}}) </strong> mójwd ast. Uyu mixuhid burgiri konidasc?"
     },
     "update_check_failed": {
-      "title": "Update Check Failed!",
-      "message": "Unable to check for app updates. Please try again later."
+      "title": "Barresiyé Berwzresuni Anjum Nascod!",
+      "message": "Emkune barresiyé berwzresunihuyé barnumehu vojwd nadurad. Lotfan baëdan dobure talusc konid."
     },
     "up_to_date": {
-      "title": "Up to Date!",
-      "message": "You have the grooviest version of Groove Launcher."
+      "title": "Be Rwz!",
+      "message": "Scomu Groovitarin nosxeyé Launcheré Groove ru durid."
     },
     "font_read_error": {
-      "title": "Unsupported file format",
-      "message": "The font file isn’t valid. Make sure it’s a .ttf file and try uploading again."
+      "title": "Qulebé fuylé posctibuni nascode",
+      "message": "Font moëtabar ni'st. Motmaen scavid ke in yek fuylé .ttf ast va sepas dobure talusc konid."
     },
     "font_load_error": {
-      "title": "Can’t load font",
-      "message": "We couldn’t read the font file. Only .ttf fonts are supported. Please try a different file."
+      "title": "Nemitavun font ru burgozuri kard",
+      "message": "Mu natavunestim fuylé font ru bexunim. Faqat fonthuyé .ttf posctibuni miscavand. Lotfan bu fuylé motefuveti talusc konid."
     },
     "copy_failed": {
-      "title": "Copy Failed!",
-      "message": "Unable to copy apps list. Please try again."
+      "title": "Kopi anjum nascod!",
+      "message": "Emkuné kopiyé fehresté barnumehu vojwd nadurad. Lotfan dobure talusc konid."
     },
     "copy_success": {
-      "title": "Copied to Clipboard!",
-      "message": "Installed apps copied to JSON format successfully."
+      "title": "Dar boridedun kopi scod!",
+      "message": "Barnumehuyé nasb scode bu movaffaqiyat be qulebé JSON kopi scodand."
     }
   },
   "about": {
-    "title": "About",
-    "description": "Groove Launcher",
-    "version": "Version: {{version}}",
-    "webview_version": "WebView Version: {{version}}",
-    "reset_launcher": "Reset Launcher",
-    "check_updates": "Check Updates"
+    "title": "Darbure",
+    "description": "Launcheré Groove",
+    "version": "Nosxe: {{version}}",
+    "webview_version": "Nosxeyé WebView: {{version}}",
+    "reset_launcher": "Buznescuniyé Launcher",
+    "check_updates": "Barresiyé Berwzresunihu"
   },
   "apps": {
-    "uninstall_app": "Uninstall App"
+    "uninstall_app": "Hazfé Barnume"
   },
   "roles": {
-    "team_groove": "Team Groove",
+    "team_groove": "Timé Groove",
     "developer": "Developer",
     "icon_design": "Icon Design",
     "logo_design": "Logo Design"
