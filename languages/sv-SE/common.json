@@ -5,7 +5,7 @@
     "yes": "Yes",
     "no": "No",
     "uninstall": "Uninstall",
-    "cancel": "Cancel",
+    "cancel": "Avbryt",
     "apply": "Apply",
     "try_again": "Try again",
     "light": "Light",
@@ -22,7 +22,7 @@
     "search_store": "search Store"
   },
   "errors": {
-    "webview_old": "WebView is too old!",
+    "webview_old": "WebView är för gammal!",
     "home_reset": "Your home screen was reset because of a fatal error :( Please report this:",
     "launch_timeout": "System took too long to launch"
   },
@@ -44,7 +44,7 @@
     "percent": "{{value}}%",
     "decimal": "{{whole}}.{{decimal}}",
     "bytes": {
-      "b": "{{size}} B",
+      "b": "B",
       "kb": "{{size}} KB",
       "mb": "{{size}} MB",
       "gb": "{{size}} GB",
