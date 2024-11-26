@@ -44,7 +44,7 @@
     "percent": "{{value}}%",
     "decimal": "{{whole}}.{{decimal}}",
     "bytes": {
-      "b": "B",
+      "b": "{{size}}TB",
       "kb": "{{size}} KB",
       "mb": "{{size}} MB",
       "gb": "{{size}} GB",
