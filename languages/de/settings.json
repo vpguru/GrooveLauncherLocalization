@@ -56,7 +56,7 @@
   "alerts": {
     "reset": {
       "title": "Groove Launcher zurücksetzen?",
-      "message": "Dies wird deinen Launcher auf die Standardeinstellungen zurücksetzen. Alle Anpassungen gehen verloren."
+      "message": "Dies wird deinen Launcher auf seine Standardeinstellungen zurücksetzen. Alle Anpassungen gehen verloren."
     },
     "root": {
       "title": "Root-Zugriff erforderlich",
