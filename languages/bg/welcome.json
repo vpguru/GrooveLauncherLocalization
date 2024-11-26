@@ -1,39 +1,39 @@
 {
     "common": {
-        "next": "следващ",
-        "previous": "предишен",
-        "pleaseWait": "Моля изчакайте..."
+        "next": "next",
+        "previous": "previous",
+        "pleaseWait": "Please wait..."
     },
     "welcome": {
-        "install": "Добре дошли",
-        "update": "Добре дошли отново",
+        "install": "Welcome",
+        "update": "Welcome back",
         "appName": "Groove Launcher",
-        "setupIntro": "Нека настроим Вашето преживяване в няколко кратки стъпки.",
-        "warning": "Внимание: Това е предварително пуснат софтуер и може да съдържа бъгове."
+        "setupIntro": "Let's setup your experience in a few short steps.",
+        "warning": "Warning: This is pre-release software and may contain bugs."
     },
     "wizard": {
-        "title": "Съветник за актуализиране",
-        "description": "Нека се уверим, че вашите данни се пренасят безопасно! Кликнете върху следващ за да продължите."
+        "title": "Update Wizard",
+        "description": "Let's ensure your data is moved across safely! Click next to continue."
     },
     "access": {
-        "title": "Улеснен достъп",
-        "description": "Персонализирайте Вашето изживяване, за да сте сигурни, че всичко е както трябва.",
-        "background": "Фон",
-        "scaling": "Мащабиране"
+        "title": "Ease of Access",
+        "description": "Customize your experience to ensure that everything feels just right.",
+        "background": "Background",
+        "scaling": "Scaling"
     },
     "themes": {
-        "light": "Светъл",
-        "dark": "Тъмен"
+        "light": "Light",
+        "dark": "Dark"
     },
     "colors": {
-        "title": "Изберете своя цвят",
-        "description": "Изберете цвят, който съответства на вашето настроение."
+        "title": "Choose your color",
+        "description": "Pick a color that matches your mood."
     },
     "whatsnew": {
-        "title": "Какво ново?"
+        "title": "What's New?"
     },
     "finish": {
-        "title": "Пригответе се за Groove",
-        "description": "Вашата настройка е готова. Време е да се потопите!"
+        "title": "Get ready to Groove",
+        "description": "Your setup is done. Time to dive in!"
     }
 }

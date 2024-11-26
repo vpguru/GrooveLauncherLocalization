@@ -1,54 +1,54 @@
 {
   "actions": {
-    "ok": "Ок",
-    "okay": "Добре",
-    "yes": "Да",
-    "no": "Не",
-    "uninstall": "Деинсталиране",
-    "cancel": "Отказ",
-    "apply": "Приложи",
-    "try_again": "Опитай отново",
-    "light": "Светъл",
-    "dark": "Тъмен",
-    "remove": "Премахни",
-    "on": "Включено",
-    "off": "Изключено",
-    "locked": "Заключен",
-    "unlocked": "Отключен"
+    "ok": "Ok",
+    "okay": "Okay",
+    "yes": "Yes",
+    "no": "No",
+    "uninstall": "Uninstall",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "try_again": "Try again",
+    "light": "Light",
+    "dark": "Dark",
+    "remove": "Remove",
+    "on": "On",
+    "off": "Off",
+    "locked": "Locked",
+    "unlocked": "Unlocked"
   },
   "search": {
-    "title": "Търси",
-    "no_results": "Няма намерени резултати за {{query}}",
-    "search_store": "търси в Магазина"
+    "title": "Search",
+    "no_results": "No results for {{query}}",
+    "search_store": "search Store"
   },
   "errors": {
-    "webview_old": "WebView е твърде стар!",
-    "home_reset": "Началният Ви екран е възстановен до фабрични настройки поради фатална грешка :( Моля докладвайте:",
-    "launch_timeout": "Системата отнема твърде дълго да се стартира"
+    "webview_old": "WebView is too old!",
+    "home_reset": "Your home screen was reset because of a fatal error :( Please report this:",
+    "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "Закачи на начална страница",
-    "uninstall": "Деинсталирай"
+    "pin_to_home": "Pin to home",
+    "uninstall": "Uninstall"
   },
   "alerts": {
     "default": {
-      "title": "Предупреждение!",
-      "message": "Съобщение"
+      "title": "Alert!",
+      "message": "Message"
     },
     "uninstall": {
-      "title": "Деинсталирай това приложение?",
-      "message": "Това приложение, и данните асоциирани с него, ще бъдат изтрити."
+      "title": "Uninstall this app?",
+      "message": "This app, plus any information it contains, will be deleted from your device."
     }
   },
   "numbers": {
     "percent": "{{value}}%",
     "decimal": "{{whole}}.{{decimal}}",
     "bytes": {
-      "b": "{{size}} Б",
-      "kb": "{{size}} КБ",
-      "mb": "{{size}} МБ",
-      "gb": "{{size}} ГБ",
-      "tb": "{{size}} ТБ"
+      "b": "{{size}} B",
+      "kb": "{{size}} KB",
+      "mb": "{{size}} MB",
+      "gb": "{{size}} GB",
+      "tb": "{{size}} TB"
     }
   }
 }

@@ -4,15 +4,15 @@
     "okay": "Okay",
     "yes": "Sì",
     "no": "No",
-    "uninstall": "Disinstallare",
+    "uninstall": "Uninstall",
     "cancel": "Cancel",
     "apply": "Apply",
     "try_again": "Try again",
     "light": "Chiaro",
     "dark": "Scuro",
     "remove": "Rimuovi",
-    "on": "Sì",
-    "off": "No",
+    "on": "On",
+    "off": "Off",
     "locked": "Locked",
     "unlocked": "Unlocked"
   },
@@ -27,7 +27,7 @@
     "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "Aggiungi a home",
+    "pin_to_home": "Pin to home",
     "uninstall": "Rimuovi"
   },
   "alerts": {

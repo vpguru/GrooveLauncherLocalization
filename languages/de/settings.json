@@ -1,53 +1,53 @@
 {
-  "title": "Einstellungen",
+  "title": "Settings",
   "tabs": {
-    "home": "Startseite",
-    "applications": "Anwendungen"
+    "home": "Home",
+    "applications": "Applications"
   },
   "theme": {
-    "title": "Startseite+Design",
-    "accent_color": "Akzentfarbe",
-    "background": "Hintergrund",
-    "home_background": "Starthintergrund",
-    "choose_photo": "Foto auswählen",
-    "show_more_tiles": "Mehr Kacheln anzeigen",
-    "friendly_accent": "Ändere die Hintergrundfarbe und die <span style='color: var(--accent-color)'>Akzentfarbe</span> deines Gerätes passend zu deiner Stimmung - für heute, diese Woche oder den ganzen Monat.",
-    "friendly_tiles": "Du kannst die Größe und die Anzahl der auf dem Startbildschirm angezeigten Kacheln ändern.",
+    "title": "Home+Theme",
+    "accent_color": "Accent color",
+    "background": "Background",
+    "home_background": "Home background",
+    "choose_photo": "Choose photo",
+    "show_more_tiles": "Show more Tiles",
+    "friendly_accent": "Change your device's background and <span style='color: var(--accent-color)'>accent color</span> to match your mood today, this week, or all month.",
+    "friendly_tiles": "You can change the size and number of tiles available on your home screen.",
     "themes": {
-      "light": "Hell",
-      "dark": "Dunkel"
+      "light": "Light",
+      "dark": "Dark"
     }
   },
   "screen_rotation": {
-    "title": "Automatische Ausrichtung",
-    "auto_rotate": "Automatisch drehen",
-    "rotation_lock": "Rotationsperre",
-    "friendly_rotation_lock": "Bei aktivierter Rotationssperre bleibt die aktuelle Ausrichtung des Bildschirms erhalten, wenn du das Gerät drehst."
+    "title": "Screen Rotation",
+    "auto_rotate": "Auto-rotate",
+    "rotation_lock": "Rotation lock",
+    "friendly_rotation_lock": "When Rotation lock is on, your home will stay in the current orientation when you rotate your device."
   },
   "language": {
-    "title": "Sprache"
+    "title": "Language"
   },
   "ease_of_access": {
-    "title": "Erleichterte Bedienung",
-    "description": "Textgröße, hoher Kontrast und weitere Features",
-    "reduce_motion": "Animationen reduzieren",
-    "scaling": "Skalierung",
+    "title": "Ease of Access",
+    "description": "text size, high contrast, and more",
+    "reduce_motion": "Reduce motion",
+    "scaling": "Scaling",
     "font": {
-      "title": "Schriftart",
-      "choose": "Wählen...",
-      "remove": "Schriftart entfernen"
+      "title": "Font",
+      "choose": "Choose...",
+      "remove": "Remove Font"
     }
   },
   "advanced": {
-    "title": "Erweitert",
-    "description": "Paketmanager und andere Optimierungen",
+    "title": "Advanced",
+    "description": "package manager and other tweaks",
     "debugging": {
-      "title": "Debuggen",
-      "dump_apps": "Installierte Apps im JSON-Format exportieren"
+      "title": "Debugging",
+      "dump_apps": "Dump Installed Apps JSON"
     },
     "package_manager": {
-      "title": "Paketmanager",
-      "title_experimental": "Paketmanager (EXPERIMENTELL)",
+      "title": "Package manager",
+      "title_experimental": "Package manager (EXPERIMENTAL)",
       "system": "System",
       "root": "Root",
       "shizuku": "Shizuku"
@@ -55,16 +55,16 @@
   },
   "alerts": {
     "reset": {
-      "title": "Groove Launcher zurücksetzen?",
-      "message": "Dies wird deinen Launcher auf die Standardeinstellungen zurücksetzen. Alle Anpassungen gehen verloren."
+      "title": "Reset Groove Launcher?",
+      "message": "This will reset your launcher to its default settings. All customizations will be lost."
     },
     "root": {
-      "title": "Root-Zugriff erforderlich",
-      "message": "Für diese Aktion ist Root-Zugriff erforderlich. Bitte gewähre Root-Zugriff, um fortzufahren."
+      "title": "Root Access Required",
+      "message": "Root access is required to perform this action. Please grant root access to continue."
     },
     "shizuku": {
-      "title": "Shizuku-Berechtigung erforderlich",
-      "message": "Zur Durchführung dieser Aktion ist die Berechtigung von Shizuku erforderlich. Bitte erteile Shizuku die Berechtigung um fortzufahren."
+      "title": "Shizuku Permission Required",
+      "message": "Shizuku permission is required to perform this action. Please grant Shizuku permission to continue."
     },
     "update_available": {
       "title": "Update verfügbar!",

@@ -1,116 +1,116 @@
 {
   "title": "Paramètres",
   "tabs": {
-    "home": "Écran D'accueil",
+    "home": "Home",
     "applications": "Applications"
   },
   "theme": {
-    "title": "Écran D'accueil+Thème",
-    "accent_color": "Couleur d’accentuation",
-    "background": "Arrière-plan",
-    "home_background": "Arrière-plan de l'écran d'accueil",
-    "choose_photo": "Choisir une photo",
-    "show_more_tiles": "Afficher plus de vignettes",
-    "friendly_accent": "Changez l’arrière-plan et la <span style='color: var(--accent-color)'>couleur d’accentuation</span> de votre appareil en fonction de votre humeur du jour, de la semaine ou du mois.",
-    "friendly_tiles": "Vous pouvez modifier la taille et le nombre des vignettes disponibles sur votre écran d'accueil.",
+    "title": "Home+Theme",
+    "accent_color": "Accent color",
+    "background": "Background",
+    "home_background": "Home background",
+    "choose_photo": "Choose photo",
+    "show_more_tiles": "Show more Tiles",
+    "friendly_accent": "Change your device's background and <span style='color: var(--accent-color)'>accent color</span> to match your mood today, this week, or all month.",
+    "friendly_tiles": "You can change the size and number of tiles available on your home screen.",
     "themes": {
-      "light": "Clair",
-      "dark": "Sombre"
+      "light": "Light",
+      "dark": "Dark"
     }
   },
   "screen_rotation": {
-    "title": "Rotation écran",
-    "auto_rotate": "Rotation auto",
-    "rotation_lock": "Verrouillage de la rotation",
-    "friendly_rotation_lock": "Lorsque le verrouillage de la rotation est activé, votre écran conserve son orientation actuelle lorsque vous tournez votre appareil."
+    "title": "Screen Rotation",
+    "auto_rotate": "Auto-rotate",
+    "rotation_lock": "Rotation lock",
+    "friendly_rotation_lock": "When Rotation lock is on, your home will stay in the current orientation when you rotate your device."
   },
   "language": {
-    "title": "Langue"
+    "title": "Language"
   },
   "ease_of_access": {
-    "title": "Options D'ergonomie",
-    "description": "taille du texte, contraste, etc",
-    "reduce_motion": "Réduire le mouvement",
-    "scaling": "Mise à l'échelle",
+    "title": "Ease of Access",
+    "description": "text size, high contrast, and more",
+    "reduce_motion": "Reduce motion",
+    "scaling": "Scaling",
     "font": {
-      "title": "Police",
-      "choose": "Choisir...",
-      "remove": "Supprimer La Police"
+      "title": "Font",
+      "choose": "Choose...",
+      "remove": "Remove Font"
     }
   },
   "advanced": {
-    "title": "Avancé",
-    "description": "gestionnaire de paquets et autres modifications",
+    "title": "Advanced",
+    "description": "package manager and other tweaks",
     "debugging": {
-      "title": "Débogage",
-      "dump_apps": "Vider les applications installées dans JSON"
+      "title": "Debugging",
+      "dump_apps": "Dump Installed Apps JSON"
     },
     "package_manager": {
-      "title": "Gestionnaire de paquets",
-      "title_experimental": "Gestionnaire de paquets (EXPÉRIMENTAL)",
-      "system": "Système",
+      "title": "Package manager",
+      "title_experimental": "Package manager (EXPERIMENTAL)",
+      "system": "System",
       "root": "Root",
       "shizuku": "Shizuku"
     }
   },
   "alerts": {
     "reset": {
-      "title": "Réinitialiser Groove Launcher?",
-      "message": "Cela réinitialisera votre lanceur à ses paramètres par défaut. Toutes les personnalisations seront perdues."
+      "title": "Reset Groove Launcher?",
+      "message": "This will reset your launcher to its default settings. All customizations will be lost."
     },
     "root": {
-      "title": "Accès Root Requis",
-      "message": "L'accès root est nécessaire pour effectuer cette action. Veuillez accorder l'accès root pour continuer."
+      "title": "Root Access Required",
+      "message": "Root access is required to perform this action. Please grant root access to continue."
     },
     "shizuku": {
-      "title": "Permission De Shizuku Requise",
-      "message": "La permission Shizuku est requise pour effectuer cette action. Veuillez accorder la permission à Shizuku pour continuer."
+      "title": "Shizuku Permission Required",
+      "message": "Shizuku permission is required to perform this action. Please grant Shizuku permission to continue."
     },
     "update_available": {
-      "title": "Mise À Jour Disponible!",
-      "message": "Une nouvelle version <strong>({{version}})</strong> est disponible, dimensionnée à {{size}}. Voulez-vous la télécharger ?",
-      "message2": "Une nouvelle version <strong>({{version}})</strong> est disponible. Voulez-vous la télécharger ?"
+      "title": "Update Available!",
+      "message": "A new version <strong>({{version}})</strong> is available, sized at {{size}}. Would you like to download it?",
+      "message2": "A new version <strong>({{version}})</strong> is available. Would you like to download it?"
     },
     "update_check_failed": {
-      "title": "Échec de la vérification de la mise à jour !",
-      "message": "Impossible de vérifier les mises à jour de l'application. Veuillez réessayer plus tard."
+      "title": "Update Check Failed!",
+      "message": "Unable to check for app updates. Please try again later."
     },
     "up_to_date": {
-      "title": "Jusqu'à la date !",
-      "message": "Vous avez la version la plus groovy de Groove Launcher."
+      "title": "Up to Date!",
+      "message": "You have the grooviest version of Groove Launcher."
     },
     "font_read_error": {
-      "title": "Format de fichier non pris en charge",
-      "message": "Le fichier de police n'est pas valide. Assurez-vous qu'il s'agit d'un fichier .ttf et essayez de télécharger à nouveau."
+      "title": "Unsupported file format",
+      "message": "The font file isn’t valid. Make sure it’s a .ttf file and try uploading again."
     },
     "font_load_error": {
-      "title": "Impossible de charger la police",
-      "message": "Nous n'avons pas pu lire le fichier de police. Seules les polices .ttf sont prises en charge. Veuillez essayer un autre fichier."
+      "title": "Can’t load font",
+      "message": "We couldn’t read the font file. Only .ttf fonts are supported. Please try a different file."
     },
     "copy_failed": {
-      "title": "Échec de la copie !",
-      "message": "Impossible de copier la liste des applications. Veuillez réessayer."
+      "title": "Copy Failed!",
+      "message": "Unable to copy apps list. Please try again."
     },
     "copy_success": {
-      "title": "Copié dans le presse-papier!",
-      "message": "Applications installées copiées au format JSON avec succès."
+      "title": "Copied to Clipboard!",
+      "message": "Installed apps copied to JSON format successfully."
     }
   },
   "about": {
-    "title": "À propos de",
+    "title": "About",
     "description": "Groove Launcher",
-    "version": "Version : {{version}}",
-    "webview_version": "Version de WebView : {{version}}",
-    "reset_launcher": "Réinitialiser le lanceur",
-    "check_updates": "Vérifier l’existence de mises à jour"
+    "version": "Version: {{version}}",
+    "webview_version": "WebView Version: {{version}}",
+    "reset_launcher": "Reset Launcher",
+    "check_updates": "Check Updates"
   },
   "apps": {
-    "uninstall_app": "Désinstaller l'application"
+    "uninstall_app": "Uninstall App"
   },
   "roles": {
-    "team_groove": "L'équipe Groove",
-    "developer": "Développeur",
-    "icon_design": "Conception d'icônes",
-    "logo_design": "Conception du logo"
+    "team_groove": "Team Groove",
+    "developer": "Developer",
+    "icon_design": "Icon Design",
+    "logo_design": "Logo Design"
   }
 }

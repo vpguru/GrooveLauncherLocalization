@@ -1,11 +1,11 @@
 {
-  "title": "設定",
+  "title": "Settings",
   "tabs": {
-    "home": "ホーム",
+    "home": "Home",
     "applications": "Applications"
   },
   "theme": {
-    "title": "ホーム+テーマ",
+    "title": "Home+Theme",
     "accent_color": "アクセントカラー",
     "background": "背景",
     "home_background": "ホーム画面の背景",

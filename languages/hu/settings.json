@@ -1,116 +1,116 @@
 {
-  "title": "Beállítások",
+  "title": "Settings",
   "tabs": {
-    "home": "Kezdőlap",
-    "applications": "Alkalmazások"
+    "home": "Home",
+    "applications": "Applications"
   },
   "theme": {
-    "title": "Kezdőlap+Téma",
-    "accent_color": "Kiemelt szín",
-    "background": "Háttér",
-    "home_background": "Kezdőlap háttér",
-    "choose_photo": "Fotó választás",
-    "show_more_tiles": "Több csempe",
-    "friendly_accent": "Változtassa meg készüléke hátterét és <span style='color: var(--accent-color)'>kiemelt színét</span>, hogy igazodjon kedvéhez ma, holnap, vagy akár egész hónapban.",
-    "friendly_tiles": "Megváltoztathatja a kezdőlapon elérhető csempék méretét és számát.",
+    "title": "Home+Theme",
+    "accent_color": "Accent color",
+    "background": "Background",
+    "home_background": "Home background",
+    "choose_photo": "Choose photo",
+    "show_more_tiles": "Show more Tiles",
+    "friendly_accent": "Change your device's background and <span style='color: var(--accent-color)'>accent color</span> to match your mood today, this week, or all month.",
+    "friendly_tiles": "You can change the size and number of tiles available on your home screen.",
     "themes": {
-      "light": "Világos",
-      "dark": "Sötét"
+      "light": "Light",
+      "dark": "Dark"
     }
   },
   "screen_rotation": {
-    "title": "Képernyő elforgatás",
-    "auto_rotate": "Automatikus elforgatás",
-    "rotation_lock": "Elforgatás tiltása",
-    "friendly_rotation_lock": "Amikor az elforgatás tiltva van, a kezdőlap a jelenlegi orientációban marad a készüléket forgatva is."
+    "title": "Screen Rotation",
+    "auto_rotate": "Auto-rotate",
+    "rotation_lock": "Rotation lock",
+    "friendly_rotation_lock": "When Rotation lock is on, your home will stay in the current orientation when you rotate your device."
   },
   "language": {
-    "title": "Nyelv"
+    "title": "Language"
   },
   "ease_of_access": {
-    "title": "Akadálymentesítés",
-    "description": "szöveg méret, magas kontraszt és továbbiak",
-    "reduce_motion": "Animációk korlátozása",
-    "scaling": "Méretarány",
+    "title": "Ease of Access",
+    "description": "text size, high contrast, and more",
+    "reduce_motion": "Reduce motion",
+    "scaling": "Scaling",
     "font": {
-      "title": "Betűtípus",
-      "choose": "Tallózás...",
-      "remove": "Betűtípus eltávolítása"
+      "title": "Font",
+      "choose": "Choose...",
+      "remove": "Remove Font"
     }
   },
   "advanced": {
-    "title": "Haladó",
-    "description": "csomagkezelő és további trükkök",
+    "title": "Advanced",
+    "description": "package manager and other tweaks",
     "debugging": {
-      "title": "Hibakeresés",
-      "dump_apps": "Telepített alkalmazások írása JSON fájlba"
+      "title": "Debugging",
+      "dump_apps": "Dump Installed Apps JSON"
     },
     "package_manager": {
-      "title": "Csomagkezelő",
-      "title_experimental": "Csomagkezelő (fejlesztés alatt)",
-      "system": "Rendszer",
+      "title": "Package manager",
+      "title_experimental": "Package manager (EXPERIMENTAL)",
+      "system": "System",
       "root": "Root",
       "shizuku": "Shizuku"
     }
   },
   "alerts": {
     "reset": {
-      "title": "Visszaállítja a Groove Launcher-t?",
-      "message": "Ez a művelet visszaállítja az alapbeállításokat. Minden testreszabás el fog veszni."
+      "title": "Reset Groove Launcher?",
+      "message": "This will reset your launcher to its default settings. All customizations will be lost."
     },
     "root": {
-      "title": "Root jogosultság szükséges",
-      "message": "Ehhez a művelethez root jogosultság szükséges. Adja meg a jogosultságot a folytatáshoz."
+      "title": "Root Access Required",
+      "message": "Root access is required to perform this action. Please grant root access to continue."
     },
     "shizuku": {
-      "title": "Shizuku jogosultság szükséges",
-      "message": "Ehhez a művelethez Shizuku jogosultság szükséges. Adja meg a jogosultságot a folytatáshoz."
+      "title": "Shizuku Permission Required",
+      "message": "Shizuku permission is required to perform this action. Please grant Shizuku permission to continue."
     },
     "update_available": {
-      "title": "Frissítés elérhető!",
-      "message": "Új verzió érhető el: <strong>{{version}}</strong>, mérete {{size}}. Szeretné letölteni?",
-      "message2": "Új verzió érhető el: <strong>{{version}}</strong>. Szeretné letölteni?"
+      "title": "Update Available!",
+      "message": "A new version <strong>({{version}})</strong> is available, sized at {{size}}. Would you like to download it?",
+      "message2": "A new version <strong>({{version}})</strong> is available. Would you like to download it?"
     },
     "update_check_failed": {
-      "title": "Frissítés keresése sikertelen!",
-      "message": "Frissítés keresése sikertelen! Próbálja újra később."
+      "title": "Update Check Failed!",
+      "message": "Unable to check for app updates. Please try again later."
     },
     "up_to_date": {
-      "title": "Naprakész.",
-      "message": "A Groove Launcher naprakész."
+      "title": "Up to Date!",
+      "message": "You have the grooviest version of Groove Launcher."
     },
     "font_read_error": {
-      "title": "Ismeretlen fájlformátum",
-      "message": "A fájl nem megfelelő. Győződjön meg, hogy .ttf fájlt használ, majd próbálja meg feltölteni újra."
+      "title": "Unsupported file format",
+      "message": "The font file isn’t valid. Make sure it’s a .ttf file and try uploading again."
     },
     "font_load_error": {
-      "title": "A betűtípus betöltése sikertelen",
-      "message": "A betűtípus betöltése sikertelen. Csak .tff formátum támogatott."
+      "title": "Can’t load font",
+      "message": "We couldn’t read the font file. Only .ttf fonts are supported. Please try a different file."
     },
     "copy_failed": {
-      "title": "Másolás sikertelen!",
-      "message": "Az alkalmazások listájának másolása sikertelen."
+      "title": "Copy Failed!",
+      "message": "Unable to copy apps list. Please try again."
     },
     "copy_success": {
-      "title": "Vágólapra másolva!",
-      "message": "A telepített alkalmazások sikeresen JSON formátumba másolva."
+      "title": "Copied to Clipboard!",
+      "message": "Installed apps copied to JSON format successfully."
     }
   },
   "about": {
-    "title": "Megszakít",
+    "title": "About",
     "description": "Groove Launcher",
-    "version": "Verzió: {{version}}",
-    "webview_version": "WebView verziója: {{version}}",
-    "reset_launcher": "Launcer visszaállítása",
-    "check_updates": "Frissítések keresése"
+    "version": "Version: {{version}}",
+    "webview_version": "WebView Version: {{version}}",
+    "reset_launcher": "Reset Launcher",
+    "check_updates": "Check Updates"
   },
   "apps": {
-    "uninstall_app": "Alkalmazás eltávolítása"
+    "uninstall_app": "Uninstall App"
   },
   "roles": {
-    "team_groove": "Groove csapat",
-    "developer": "Fejlesztő",
-    "icon_design": "Ikon dizájn",
-    "logo_design": "Logó dizájn"
+    "team_groove": "Team Groove",
+    "developer": "Developer",
+    "icon_design": "Icon Design",
+    "logo_design": "Logo Design"
   }
 }
