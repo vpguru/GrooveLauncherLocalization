@@ -27,7 +27,7 @@
     "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "ホーム画面に追加",
+    "pin_to_home": "Pin to home",
     "uninstall": "削除"
   },
   "alerts": {

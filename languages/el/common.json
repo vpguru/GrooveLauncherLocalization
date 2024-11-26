@@ -1,15 +1,15 @@
 {
   "actions": {
-    "ok": "Εντάξει",
-    "okay": "Εντάξει",
+    "ok": "Ok",
+    "okay": "Okay",
     "yes": "Ναι",
     "no": "Όχι",
     "uninstall": "Κατάργηση",
     "cancel": "Cancel",
     "apply": "Apply",
     "try_again": "Try again",
-    "light": "Ανοιχτό",
-    "dark": "Σκούρο",
+    "light": "Light",
+    "dark": "Dark",
     "remove": "Remove",
     "on": "Ενεργό",
     "off": "Ανενεργό",
@@ -27,7 +27,7 @@
     "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "Καρφίτσωμα στην αρχική οθόνη",
+    "pin_to_home": "Pin to home",
     "uninstall": "Κατάργηση"
   },
   "alerts": {

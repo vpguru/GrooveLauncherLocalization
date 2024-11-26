@@ -1,7 +1,7 @@
 {
   "actions": {
-    "ok": "Đồng ý",
-    "okay": "Được thôi",
+    "ok": "Ok",
+    "okay": "Okay",
     "yes": "Có",
     "no": "Không",
     "uninstall": "Dỡ cài đặt",
@@ -13,11 +13,11 @@
     "remove": "Gỡ bỏ",
     "on": "Bật",
     "off": "Tắt",
-    "locked": "Đã khóa",
-    "unlocked": "Đã mở khóa"
+    "locked": "Locked",
+    "unlocked": "Unlocked"
   },
   "search": {
-    "title": "Tìm kiếm",
+    "title": "Search",
     "no_results": "Không có kết quả nào cho {{query}}",
     "search_store": "tìm kiếm Store"
   },

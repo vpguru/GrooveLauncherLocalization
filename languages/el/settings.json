@@ -30,16 +30,16 @@
   "ease_of_access": {
     "title": "Διευκόλυνση Πρόσβασης",
     "description": "μέγεθος κειμένου, αντιθέσεις και άλλα",
-    "reduce_motion": "Μείωση κίνησης",
-    "scaling": "Κλιμάκωση",
+    "reduce_motion": "Reduce motion",
+    "scaling": "Scaling",
     "font": {
-      "title": "Γραμματοσειρά",
-      "choose": "Επιλέξτε...",
-      "remove": "Κατάργηση γραμματοσειράς"
+      "title": "Font",
+      "choose": "Choose...",
+      "remove": "Remove Font"
     }
   },
   "advanced": {
-    "title": "Προχωρημένος",
+    "title": "Advanced",
     "description": "package manager and other tweaks",
     "debugging": {
       "title": "Debugging",

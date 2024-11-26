@@ -23,11 +23,11 @@
   },
   "errors": {
     "webview_old": "WebView ist veraltet!",
-    "home_reset": "Der Homebildschirm wurde aufgrund eines fatalen Fehlers zurückgesetzt :( bitte melden:",
-    "launch_timeout": "Systemstart dauerte zu lange"
+    "home_reset": "Your home screen was reset because of a fatal error :( Please report this:",
+    "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "Auf Homebildschirm",
+    "pin_to_home": "Pin to home",
     "uninstall": "Deinstallieren"
   },
   "alerts": {

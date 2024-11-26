@@ -1,43 +1,43 @@
 {
   "actions": {
     "ok": "Ok",
-    "okay": "Elfogad",
-    "yes": "Igen",
-    "no": "Nem",
-    "uninstall": "Eltávolít",
-    "cancel": "Mégse",
-    "apply": "Alkalmaz",
-    "try_again": "Próbálja újra",
-    "light": "Világos",
-    "dark": "Sötét",
-    "remove": "Eltávolít",
-    "on": "Be",
-    "off": "Ki",
-    "locked": "Zárolt",
-    "unlocked": "Feloldott"
+    "okay": "Okay",
+    "yes": "Yes",
+    "no": "No",
+    "uninstall": "Uninstall",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "try_again": "Try again",
+    "light": "Light",
+    "dark": "Dark",
+    "remove": "Remove",
+    "on": "On",
+    "off": "Off",
+    "locked": "Locked",
+    "unlocked": "Unlocked"
   },
   "search": {
-    "title": "Keresés",
-    "no_results": "{{query}} nem található",
-    "search_store": "keresse az Áruházban"
+    "title": "Search",
+    "no_results": "No results for {{query}}",
+    "search_store": "search Store"
   },
   "errors": {
-    "webview_old": "A WebView elévült!",
-    "home_reset": "Kritikus hiba miatt alaphelyzetbe állt a kezdőképernyő :( Hibajelentés:",
-    "launch_timeout": "A rendszer índítása túl sokáig tartott"
+    "webview_old": "WebView is too old!",
+    "home_reset": "Your home screen was reset because of a fatal error :( Please report this:",
+    "launch_timeout": "System took too long to launch"
   },
   "app_menu": {
-    "pin_to_home": "Kitűzés",
-    "uninstall": "Eltávolítás"
+    "pin_to_home": "Pin to home",
+    "uninstall": "Uninstall"
   },
   "alerts": {
     "default": {
-      "title": "Figyelmeztetés!",
-      "message": "Üzenet"
+      "title": "Alert!",
+      "message": "Message"
     },
     "uninstall": {
-      "title": "Eltávolítja ezt az alkalmazást?",
-      "message": "Ez az alkalmazás és annak adatai eltávolításra kerülnek eszközéről."
+      "title": "Uninstall this app?",
+      "message": "This app, plus any information it contains, will be deleted from your device."
     }
   },
   "numbers": {

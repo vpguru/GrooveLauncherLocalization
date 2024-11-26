@@ -1,39 +1,39 @@
 {
     "common": {
-        "next": "következő",
-        "previous": "előző",
-        "pleaseWait": "Kérem várjon..."
+        "next": "next",
+        "previous": "previous",
+        "pleaseWait": "Please wait..."
     },
     "welcome": {
-        "install": "Üdvözöljük",
-        "update": "Üdv újra",
+        "install": "Welcome",
+        "update": "Welcome back",
         "appName": "Groove Launcher",
-        "setupIntro": "Kezdjük pár rövid lépéssel!",
-        "warning": "Figyelem: Ez az alkalmazás fejlesztés alatt áll és tartalmazhat hibákat."
+        "setupIntro": "Let's setup your experience in a few short steps.",
+        "warning": "Warning: This is pre-release software and may contain bugs."
     },
     "wizard": {
-        "title": "Frissítés",
-        "description": "Győződjünk meg róla, hogy az adatok biztonságban maradnak. Koppintson a folytatásra!"
+        "title": "Update Wizard",
+        "description": "Let's ensure your data is moved across safely! Click next to continue."
     },
     "access": {
-        "title": "Akadálymentesítés",
-        "description": "Szabja személyre a felületet kedvére!",
-        "background": "Háttér",
-        "scaling": "Méretarány"
+        "title": "Ease of Access",
+        "description": "Customize your experience to ensure that everything feels just right.",
+        "background": "Background",
+        "scaling": "Scaling"
     },
     "themes": {
-        "light": "Világos",
-        "dark": "Sötét"
+        "light": "Light",
+        "dark": "Dark"
     },
     "colors": {
-        "title": "Válasszon színt",
-        "description": "Válasszon hangulatának megfelelő színt."
+        "title": "Choose your color",
+        "description": "Pick a color that matches your mood."
     },
     "whatsnew": {
-        "title": "Újdonságok"
+        "title": "What's New?"
     },
     "finish": {
-        "title": "Kezdjünk bele",
-        "description": "A beállításai elkészültek. Vágjunk is neki!"
+        "title": "Get ready to Groove",
+        "description": "Your setup is done. Time to dive in!"
     }
 }

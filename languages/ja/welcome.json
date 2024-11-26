@@ -1,7 +1,7 @@
 {
     "common": {
-        "next": "次へ",
-        "previous": "前へ",
+        "next": "next",
+        "previous": "previous",
         "pleaseWait": "Please wait..."
     },
     "welcome": {
