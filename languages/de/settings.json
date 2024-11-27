@@ -1,53 +1,53 @@
 {
-  "title": "Settings",
+  "title": "Einstellungen",
   "tabs": {
-    "home": "Home",
-    "applications": "Applications"
+    "home": "Homeseite",
+    "applications": "Anwendungen"
   },
   "theme": {
-    "title": "Home+Theme",
-    "accent_color": "Accent color",
-    "background": "Background",
-    "home_background": "Home background",
-    "choose_photo": "Choose photo",
-    "show_more_tiles": "Show more Tiles",
-    "friendly_accent": "Change your device's background and <span style='color: var(--accent-color)'>accent color</span> to match your mood today, this week, or all month.",
-    "friendly_tiles": "You can change the size and number of tiles available on your home screen.",
+    "title": "Homeseite+Design",
+    "accent_color": "Akzentfarbe",
+    "background": "Hintergrund",
+    "home_background": "Home-hintergrund",
+    "choose_photo": "Foto auswählen",
+    "show_more_tiles": "Mehr Kacheln anzeigen",
+    "friendly_accent": "Ändere die Hintergrundfarbe und die <span style='color: var(--accent-color)'>Akzentfarbe</span> deines Geräts passend zu deiner Stimmung - für heute, diese Woche oder den ganzen Monat.",
+    "friendly_tiles": "Du kannst die Größe und die Anzahl der auf dem Startbildschirm angezeigten Kacheln ändern.",
     "themes": {
-      "light": "Light",
-      "dark": "Dark"
+      "light": "Hell",
+      "dark": "Dunkel"
     }
   },
   "screen_rotation": {
-    "title": "Screen Rotation",
-    "auto_rotate": "Auto-rotate",
-    "rotation_lock": "Rotation lock",
-    "friendly_rotation_lock": "When Rotation lock is on, your home will stay in the current orientation when you rotate your device."
+    "title": "Automatische Ausrichtung",
+    "auto_rotate": "Automatisch drehen",
+    "rotation_lock": "Rotationsperre",
+    "friendly_rotation_lock": "Bei aktivierter Rotationssperre bleibt die aktuelle Ausrichtung des Bildschirms erhalten, wenn du das Gerät drehst."
   },
   "language": {
-    "title": "Language"
+    "title": "Sprache"
   },
   "ease_of_access": {
-    "title": "Ease of Access",
-    "description": "text size, high contrast, and more",
-    "reduce_motion": "Reduce motion",
-    "scaling": "Scaling",
+    "title": "Erleichterte Bedienung",
+    "description": "Textgröße, hoher Kontrast und weitere Features",
+    "reduce_motion": "Animationen reduzieren",
+    "scaling": "Skalierung",
     "font": {
-      "title": "Font",
-      "choose": "Choose...",
-      "remove": "Remove Font"
+      "title": "Schriftart",
+      "choose": "Wählen...",
+      "remove": "Schriftart entfernen"
     }
   },
   "advanced": {
-    "title": "Advanced",
-    "description": "package manager and other tweaks",
+    "title": "Erweitert",
+    "description": "Paketmanager und andere Optimierungen",
     "debugging": {
-      "title": "Debugging",
-      "dump_apps": "Dump Installed Apps JSON"
+      "title": "Debuggen",
+      "dump_apps": "Installierte Apps im JSON-Format exportieren"
     },
     "package_manager": {
-      "title": "Package manager",
-      "title_experimental": "Package manager (EXPERIMENTAL)",
+      "title": "Paketmanager",
+      "title_experimental": "Paketmanager (EXPERIMENTELL)",
       "system": "System",
       "root": "Root",
       "shizuku": "Shizuku"
@@ -55,41 +55,41 @@
   },
   "alerts": {
     "reset": {
-      "title": "Reset Groove Launcher?",
-      "message": "This will reset your launcher to its default settings. All customizations will be lost."
+      "title": "Groove Launcher zurücksetzen?",
+      "message": "Dies wird deinen Launcher auf seine Standardeinstellungen zurücksetzen. Alle Anpassungen gehen verloren."
     },
     "root": {
-      "title": "Root Access Required",
-      "message": "Root access is required to perform this action. Please grant root access to continue."
+      "title": "Root-Zugriff erforderlich",
+      "message": "Für diese Aktion ist Root-Zugriff erforderlich. Bitte gewähre Root-Zugriff, um fortzufahren."
     },
     "shizuku": {
-      "title": "Shizuku Permission Required",
-      "message": "Shizuku permission is required to perform this action. Please grant Shizuku permission to continue."
+      "title": "Shizuku-Berechtigung erforderlich",
+      "message": "Für diese Aktion ist die Shizuku-Berechtigung erforderlich. Bitte gewähre die Shizuku-Berechtigung, um fortzufahren."
     },
     "update_available": {
       "title": "Update verfügbar!",
-      "message": "Eine neue Version <strong>({{version}})</strong> ist verfügbar, in der Größe {{size}}. Möchten Sie sie herunterladen?",
-      "message2": "Eine neue Version <strong>({{version}})</strong> ist verfügbar. Möchten Sie sie herunterladen?"
+      "message": "Eine neue Version <strong>({{version}})</strong> ist verfügbar, in der Größe {{size}}. Möchtest du sie herunterladen?",
+      "message2": "Eine neue Version <strong>({{version}})</strong> ist verfügbar. Möchtest du sie herunterladen?"
     },
     "update_check_failed": {
       "title": "Updateprüfung fehlgeschlagen!",
-      "message": "Es konnte nicht nach Updates gesucht werden. Bitte versuchen Sie es später erneut."
+      "message": "Es konnte nicht nach Updates gesucht werden. Bitte versuche es später erneut."
     },
     "up_to_date": {
       "title": "Auf dem neuesten Stand!",
-      "message": "Sie verwenden die aktuellste Version von Groove Launcher."
+      "message": "Du verwendest die aktuellste Version von Groove Launcher."
     },
     "font_read_error": {
       "title": "Nicht unterstütztes Dateiformat",
-      "message": "Die Schriftdatei ist ungültig. Stellen Sie sicher, dass es sich um eine .ttf-Datei handelt, und versuchen Sie es erneut."
+      "message": "Die Schriftdatei ist ungültig. Stelle sicher, dass es sich um eine .ttf-Datei handelt, und versuche es erneut."
     },
     "font_load_error": {
       "title": "Schriftart kann nicht geladen werden",
-      "message": "Die Schriftdatei konnte nicht gelesen werden. Nur .ttf-Schriftarten werden unterstützt. Bitte versuchen Sie es mit einer anderen Datei."
+      "message": "Die Schriftdatei konnte nicht gelesen werden. Nur .ttf-Schriftarten werden unterstützt. Bitte versuche es mit einer anderen Datei."
     },
     "copy_failed": {
       "title": "Kopieren fehlgeschlagen!",
-      "message": "Die Liste der Apps konnte nicht kopiert werden. Bitte versuchen Sie es erneut."
+      "message": "Die Liste der Apps konnte nicht kopiert werden. Bitte versuche es erneut."
     },
     "copy_success": {
       "title": "In die Zwischenablage kopiert!",

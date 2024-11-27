@@ -1,116 +1,116 @@
 {
-  "title": "Settings",
+  "title": "Cài đặt",
   "tabs": {
-    "home": "Home",
+    "home": "Màn hình chính",
     "applications": "Ứng dụng"
   },
   "theme": {
-    "title": "Màn hình bắt đầu+Chủ đề",
+    "title": "Màn hình chính+Chủ đề",
     "accent_color": "Màu chủ đề",
     "background": "Nền",
     "home_background": "Nền bắt đầu",
     "choose_photo": "Chọn ảnh",
     "show_more_tiles": "Hiển thị thêm Hình xếp",
     "friendly_accent": "Thay đổi nền và <span style='color: var(--accent-color)'>màu chủ đề</span> của thiết bị để phù hợp với tâm trạng của bạn hôm nay, tuần này hoặc cả tháng.",
-    "friendly_tiles": "You can change the size and number of tiles available on your home screen.",
+    "friendly_tiles": "Bạn có thể thay đổi kích cỡ và số lượng hình xếp sẵn dùng trên màn hình bắt đầu.",
     "themes": {
       "light": "Sáng",
       "dark": "Tối"
     }
   },
   "screen_rotation": {
-    "title": "Screen Rotation",
-    "auto_rotate": "Auto-rotate",
-    "rotation_lock": "Rotation lock",
-    "friendly_rotation_lock": "When Rotation lock is on, your home will stay in the current orientation when you rotate your device."
+    "title": "Xoay màn hình",
+    "auto_rotate": "Tự động xoay",
+    "rotation_lock": "Khóa xoay",
+    "friendly_rotation_lock": "Khi Khóa xoay được bật, màn hình chính sẽ giữ hướng xoay của nó bất kể thiết bị có xoay màn hình hay không."
   },
   "language": {
-    "title": "Language"
+    "title": "Ngôn ngữ"
   },
   "ease_of_access": {
-    "title": "Ease of Access",
-    "description": "text size, high contrast, and more",
-    "reduce_motion": "Reduce motion",
-    "scaling": "Scaling",
+    "title": "Hỗ trợ tiếp cận",
+    "description": "cỡ chữ, tương phản cao, và hơn thế",
+    "reduce_motion": "Giảm hoạt ảnh",
+    "scaling": "Cỡ phóng",
     "font": {
-      "title": "Font",
-      "choose": "Choose...",
-      "remove": "Remove Font"
+      "title": "Phông chữ",
+      "choose": "Lựa chọn...",
+      "remove": "Xóa font"
     }
   },
   "advanced": {
-    "title": "Advanced",
-    "description": "package manager and other tweaks",
+    "title": "Nâng cao",
+    "description": "trình quản lí gói và các tùy biến khác",
     "debugging": {
-      "title": "Debugging",
-      "dump_apps": "Dump Installed Apps JSON"
+      "title": "Gỡ lỗi",
+      "dump_apps": "Dump danh sách ứng dụng được cài đặt ra JSON"
     },
     "package_manager": {
-      "title": "Package manager",
-      "title_experimental": "Package manager (EXPERIMENTAL)",
-      "system": "System",
+      "title": "Trình quản lí gói",
+      "title_experimental": "Trình quản lí gói (THỬ NGHIỆM)",
+      "system": "Hệ thống",
       "root": "Root",
       "shizuku": "Shizuku"
     }
   },
   "alerts": {
     "reset": {
-      "title": "Reset Groove Launcher?",
-      "message": "This will reset your launcher to its default settings. All customizations will be lost."
+      "title": "Đặt lại Groove Launcher?",
+      "message": "Mọi cài đặt và tùy biến sẽ về mặc định."
     },
     "root": {
-      "title": "Root Access Required",
-      "message": "Root access is required to perform this action. Please grant root access to continue."
+      "title": "Cần truy cập root",
+      "message": "Quyền truy cập root là cần thiết cho hành động này."
     },
     "shizuku": {
-      "title": "Shizuku Permission Required",
-      "message": "Shizuku permission is required to perform this action. Please grant Shizuku permission to continue."
+      "title": "Cần quyền sử dụng Shizuku",
+      "message": "Quyền truy cập Shizuku là cần thiết cho hành động này."
     },
     "update_available": {
-      "title": "Update Available!",
-      "message": "A new version <strong>({{version}})</strong> is available, sized at {{size}}. Would you like to download it?",
-      "message2": "A new version <strong>({{version}})</strong> is available. Would you like to download it?"
+      "title": "Đã có bản cập nhật!",
+      "message": "Phiên bản <strong>{{version}}</strong> đã khả dụng, size {{size}}. Tải về?",
+      "message2": "Phiên bản <strong>{{version}}</strong> khả dụng. Tải về?"
     },
     "update_check_failed": {
-      "title": "Update Check Failed!",
-      "message": "Unable to check for app updates. Please try again later."
+      "title": "Tìm bản cập nhật thất bại!",
+      "message": "Không thể kiểm tra cập nhật. Vui lòng thử lại sau."
     },
     "up_to_date": {
-      "title": "Up to Date!",
-      "message": "You have the grooviest version of Groove Launcher."
+      "title": "Đang chạy bản mới nhất!",
+      "message": "Bạn đang sử dụng phiên bản xịn nhất của Groove Launcher."
     },
     "font_read_error": {
-      "title": "Unsupported file format",
-      "message": "The font file isn’t valid. Make sure it’s a .ttf file and try uploading again."
+      "title": "Định dạng tập tin không được hỗ trợ",
+      "message": "File font chữ này không hợp lệ. Kiểm chứng liệu nó có phải file TTF không và thử lại."
     },
     "font_load_error": {
-      "title": "Can’t load font",
-      "message": "We couldn’t read the font file. Only .ttf fonts are supported. Please try a different file."
+      "title": "Không thể load font",
+      "message": "Không thể đọc file này. Chỉ font ở định dạng .ttf là được hỗ trợ. Hãy thử một file khác."
     },
     "copy_failed": {
-      "title": "Copy Failed!",
-      "message": "Unable to copy apps list. Please try again."
+      "title": "Copy thất bại!",
+      "message": "Không thể sao chép danh sách ứng dụng. Vui lòng thử lại sau."
     },
     "copy_success": {
-      "title": "Copied to Clipboard!",
-      "message": "Installed apps copied to JSON format successfully."
+      "title": "Đã sao chép vào bộ nhớ tạm!",
+      "message": "Danh sách ứng dụng đã được sao chép sang định dạng JSON."
     }
   },
   "about": {
-    "title": "About",
+    "title": "Giới thiệu",
     "description": "Groove Launcher",
-    "version": "Version: {{version}}",
-    "webview_version": "WebView Version: {{version}}",
-    "reset_launcher": "Reset Launcher",
-    "check_updates": "Check Updates"
+    "version": "Phiên bản: {{version}}",
+    "webview_version": "Phiên bản WebView: {{version}}",
+    "reset_launcher": "Đặt lại",
+    "check_updates": "Kiểm tra cập nhật"
   },
   "apps": {
-    "uninstall_app": "Uninstall App"
+    "uninstall_app": "Gỡ cài đặt ứng dụng"
   },
   "roles": {
-    "team_groove": "Team Groove",
-    "developer": "Developer",
-    "icon_design": "Icon Design",
-    "logo_design": "Logo Design"
+    "team_groove": "Đội ngữ Groove",
+    "developer": "Nhà phát triển",
+    "icon_design": "Thiết kế icon",
+    "logo_design": "Thiết kế logo"
   }
 }
