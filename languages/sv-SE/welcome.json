@@ -16,14 +16,14 @@
         "description": "Let's ensure your data is moved across safely! Click next to continue."
     },
     "access": {
-        "title": "Ease of Access",
+        "title": "Hjälpmedel",
         "description": "Customize your experience to ensure that everything feels just right.",
-        "background": "Background",
-        "scaling": "Scaling"
+        "background": "Bakgrund",
+        "scaling": "Skalning"
     },
     "themes": {
-        "light": "Light",
-        "dark": "Dark"
+        "light": "Ljus",
+        "dark": "Mörk"
     },
     "colors": {
         "title": "Choose your color",

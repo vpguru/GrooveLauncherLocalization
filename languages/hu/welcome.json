@@ -1,39 +1,39 @@
 {
     "common": {
-        "next": "next",
-        "previous": "previous",
-        "pleaseWait": "Please wait..."
+        "next": "következő",
+        "previous": "előző",
+        "pleaseWait": "Kérem várjon..."
     },
     "welcome": {
-        "install": "Welcome",
-        "update": "Welcome back",
+        "install": "Üdvözöljük",
+        "update": "Üdv újra",
         "appName": "Groove Launcher",
-        "setupIntro": "Let's setup your experience in a few short steps.",
-        "warning": "Warning: This is pre-release software and may contain bugs."
+        "setupIntro": "Kezdjük pár rövid lépéssel!",
+        "warning": "Figyelem: Ez az alkalmazás fejlesztés alatt áll és tartalmazhat hibákat."
     },
     "wizard": {
-        "title": "Update Wizard",
-        "description": "Let's ensure your data is moved across safely! Click next to continue."
+        "title": "Frissítés",
+        "description": "Győződjünk meg róla, hogy az adatok biztonságban maradnak. Koppintson a folytatásra!"
     },
     "access": {
-        "title": "Ease of Access",
-        "description": "Customize your experience to ensure that everything feels just right.",
-        "background": "Background",
-        "scaling": "Scaling"
+        "title": "Akadálymentesítés",
+        "description": "Szabja személyre a felületet kedvére!",
+        "background": "Háttér",
+        "scaling": "Méretarány"
     },
     "themes": {
-        "light": "Light",
-        "dark": "Dark"
+        "light": "Világos",
+        "dark": "Sötét"
     },
     "colors": {
-        "title": "Choose your color",
-        "description": "Pick a color that matches your mood."
+        "title": "Válasszon színt",
+        "description": "Válasszon hangulatának megfelelő színt."
     },
     "whatsnew": {
-        "title": "What's New?"
+        "title": "Újdonságok"
     },
     "finish": {
-        "title": "Get ready to Groove",
-        "description": "Your setup is done. Time to dive in!"
+        "title": "Kezdjünk bele",
+        "description": "A beállításai elkészültek. Vágjunk is neki!"
     }
 }

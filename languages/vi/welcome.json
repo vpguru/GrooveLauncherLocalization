@@ -8,16 +8,16 @@
         "install": "Chào mừng",
         "update": "Chào mừng trở lại",
         "appName": "Groove Launcher",
-        "setupIntro": "Let's setup your experience in a few short steps.",
-        "warning": "Warning: This is pre-release software and may contain bugs."
+        "setupIntro": "Bắt đầu cho trải nghiệm của bạn với vài bước ngắn.",
+        "warning": "Cảnh báo: Đây là phần mềm thử nghiệm và sẽ có lỗi."
     },
     "wizard": {
-        "title": "Update Wizard",
-        "description": "Let's ensure your data is moved across safely! Click next to continue."
+        "title": "Trình cập nhật",
+        "description": "Chắc chắn rằng dữ liệu của bạn được chuyển một cách an toàn! Click \"tiếp\" để tiếp tục."
     },
     "access": {
         "title": "Hỗ trợ tiếp cận",
-        "description": "Customize your experience to ensure that everything feels just right.",
+        "description": "Tùy chỉnh cho trải nghiệm của bạn là tốt nhất.",
         "background": "Nền",
         "scaling": "Cỡ phóng"
     },
@@ -26,14 +26,14 @@
         "dark": "Tối"
     },
     "colors": {
-        "title": "Choose your color",
-        "description": "Pick a color that matches your mood."
+        "title": "Chọn một màu",
+        "description": "Chọn màu hợp mood của bạn."
     },
     "whatsnew": {
-        "title": "What's New?"
+        "title": "Có gì mới?"
     },
     "finish": {
-        "title": "Get ready to Groove",
-        "description": "Your setup is done. Time to dive in!"
+        "title": "Sẵn sàng đến với Groove",
+        "description": "Cài đặt đã hoàn thiện. Đến lúc trải nghiệm rồi!"
     }
 }
