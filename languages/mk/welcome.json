@@ -1,39 +1,39 @@
 {
     "common": {
-        "next": "next",
-        "previous": "previous",
-        "pleaseWait": "Please wait..."
+        "next": "следно",
+        "previous": "претходно",
+        "pleaseWait": "Ве молам чекај..."
     },
     "welcome": {
-        "install": "Welcome",
-        "update": "Welcome back",
+        "install": "Добредојдовте",
+        "update": "Добредојдовте назад",
         "appName": "Groove Launcher",
-        "setupIntro": "Let's setup your experience in a few short steps.",
-        "warning": "Warning: This is pre-release software and may contain bugs."
+        "setupIntro": "Може на наместиме во неколку мали чекори.",
+        "warning": "Вниманието: Ова е незавршено софтвер е и има не достатоци!"
     },
     "wizard": {
-        "title": "Update Wizard",
-        "description": "Let's ensure your data is moved across safely! Click next to continue."
+        "title": "Местење нова верзија",
+        "description": "Ние ке ги место меѓу твоите информации везбедно! Прицни натаму да продолжиш."
     },
     "access": {
-        "title": "Ease of Access",
-        "description": "Customize your experience to ensure that everything feels just right.",
-        "background": "Background",
-        "scaling": "Scaling"
+        "title": "Лесен пристап",
+        "description": "Можеш да направиш се како што сакаш.",
+        "background": "Заднина",
+        "scaling": "Големина"
     },
     "themes": {
-        "light": "Light",
-        "dark": "Dark"
+        "light": "Светла",
+        "dark": "Темна"
     },
     "colors": {
-        "title": "Choose your color",
-        "description": "Pick a color that matches your mood."
+        "title": "Одбери го бојата",
+        "description": "Одбери боја."
     },
     "whatsnew": {
-        "title": "What's New?"
+        "title": "Што е ново?"
     },
     "finish": {
-        "title": "Get ready to Groove",
-        "description": "Your setup is done. Time to dive in!"
+        "title": "Спреми се да Groove",
+        "description": "Сме завршени!"
     }
 }
