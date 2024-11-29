@@ -1,7 +1,7 @@
 {
   "title": "Einstellungen",
   "tabs": {
-    "home": "Homeseite",
+    "home": "Home",
     "applications": "Anwendungen"
   },
   "theme": {
@@ -12,7 +12,7 @@
     "choose_photo": "Foto auswählen",
     "show_more_tiles": "Mehr Kacheln anzeigen",
     "friendly_accent": "Ändere die Hintergrundfarbe und die <span style='color: var(--accent-color)'>Akzentfarbe</span> deines Geräts passend zu deiner Stimmung - für heute, diese Woche oder den ganzen Monat.",
-    "friendly_tiles": "Du kannst die Größe und die Anzahl der auf dem Startbildschirm angezeigten Kacheln ändern.",
+    "friendly_tiles": "Du kannst die Größe und die Anzahl der auf dem Homebildschirm angezeigten Kacheln ändern.",
     "themes": {
       "light": "Hell",
       "dark": "Dunkel"
