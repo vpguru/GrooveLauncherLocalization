@@ -14,8 +14,8 @@
     "friendly_accent": "Voit vaihtaa laitteesi taustaväriä ja <span style='color: var(--accent-color)'>korostusväriä</span> mielesi mukaan vaikka päivittäin, viikoittain tai kuukausittain.",
     "friendly_tiles": "Voit vaihtaa aloitusnäytön ruutujen määrää ja kokoa.",
     "themes": {
-      "light": "Tumma",
-      "dark": "Vaalea"
+      "light": "Vaalea",
+      "dark": "Tumma"
     }
   },
   "screen_rotation": {
@@ -121,8 +121,8 @@
     "text_color": "Text color",
     "text_color_selections": {
       "auto": "Auto",
-      "dark": "dark",
-      "light": "light"
+      "dark": "tumma",
+      "light": "vaalea"
     },
     "live_tile": "Live tile",
     "show_app": "Show in apps list"
