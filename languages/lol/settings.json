@@ -105,7 +105,27 @@
     "check_updates": "Check 4 Updatez!"
   },
   "apps": {
-    "uninstall_app": "Make Appy Go Bye-Bye!"
+    "uninstall_app": "Make Appy Go Bye-Bye!",
+    "show_in_app_list": "Show this app in App List",
+    "name": "Name",
+    "icon": "Icon",
+    "icon_selections": {
+      "default": "Default",
+      "monochrome": "Monochrome"
+    },
+    "background": "Background",
+    "background_selections": {
+      "default": "Default",
+      "transparent": "Transparent"
+    },
+    "text_color": "Text color",
+    "text_color_selections": {
+      "auto": "Auto",
+      "dark": "dark",
+      "light": "light"
+    },
+    "live_tile": "Live tile",
+    "show_app": "Show in apps list"
   },
   "roles": {
     "team_groove": "Team Groovy!",
