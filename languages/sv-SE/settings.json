@@ -105,7 +105,27 @@
     "check_updates": "Kontrollera uppdateringar"
   },
   "apps": {
-    "uninstall_app": "Avinstallera app"
+    "uninstall_app": "Avinstallera app",
+    "show_in_app_list": "Show this app in App List",
+    "name": "Name",
+    "icon": "Icon",
+    "icon_selections": {
+      "default": "Default",
+      "monochrome": "Monochrome"
+    },
+    "background": "Background",
+    "background_selections": {
+      "default": "Default",
+      "transparent": "Transparent"
+    },
+    "text_color": "Text color",
+    "text_color_selections": {
+      "auto": "Auto",
+      "dark": "dark",
+      "light": "light"
+    },
+    "live_tile": "Live tile",
+    "show_app": "Show in apps list"
   },
   "roles": {
     "team_groove": "Team Groove",
